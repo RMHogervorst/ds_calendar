@@ -2,6 +2,8 @@ name: Scrape latest events of Dutch Data Science events
 
 on:
   push:
+    paths:
+    - 'calendars.csv'
   workflow_dispatch:
   schedule:
     - cron:  '12 * * * *'
