@@ -18,7 +18,7 @@ jobs:
       with:
         use-public-rspm: true
     - uses: r-lib/actions/setup-renv@v2
-    - name: run verification
+    - name: run scrape
       run: Rscript aggregate.R
     - name: Commit and push if it changed
       run: |-
