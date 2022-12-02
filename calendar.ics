@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//RemoteApi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://www.meetup.com/amsterdam-mlops-community/events/ic
+ al/
+X-WR-CALNAME:Events - Amsterdam MLOps Community
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20221202T072434Z
+DTSTART;TZID=Europe/Amsterdam:20221206T180000
+DTEND;TZID=Europe/Amsterdam:20221206T190000
+STATUS:CONFIRMED
+SUMMARY:Tech Talk: Build Open Data Lakehouse with Dremio and dbt Labs
+DESCRIPTION:Amsterdam AI Developers Group\nTuesday\, December 6 at 6:00 P
+ M\n\nRegister on the event website to receive joining link: (https://www
+ .aicamp.ai/event/eventdetails/W2022120609" class="linkified">https://www
+ .aicamp.ai/...\n\nhttps://www.meetup.com/amsterdam-ai-developers-group/e
+ vents/290090877/
+CLASS:PUBLIC
+CREATED:20221201T235749Z
+GEO:52.36;4.88
+LOCATION:Online event
+URL:https://www.meetup.com/amsterdam-ai-developers-group/events/290090877
+ /
+LAST-MODIFIED:20221201T235749Z
+UID:event_290090877@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072435Z
+DTSTART;TZID=Europe/Amsterdam:20221206T180000
+DTEND;TZID=Europe/Amsterdam:20221206T190000
+STATUS:CONFIRMED
+SUMMARY:Webinar "Form Recognizer 3.0: Document Understanding"
+DESCRIPTION:ODSC Amsterdam Data Science\nTuesday\, December 6 at 6:00 PM\
+ n\n**To access this webinar\, please register here:** (https://hubs.li/Q
+ 01sqRkn0" class="linkified">https://hubs.li/Q01sqRkn0](https://hubs.li/Q
+ 01sqRkn0) ...\n\nhttps://www.meetup.com/amsterdam-data-science-odsc/even
+ ts/289831202/
+CLASS:PUBLIC
+CREATED:20221118T115153Z
+GEO:52.36;4.88
+LOCATION:Online event
+URL:https://www.meetup.com/amsterdam-data-science-odsc/events/289831202/
+LAST-MODIFIED:20221118T115153Z
+UID:event_289831202@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072436Z
+DTSTART;TZID=Europe/Amsterdam:20221207T160000
+DTEND;TZID=Europe/Amsterdam:20221207T183000
+STATUS:CONFIRMED
+SUMMARY:ADS Drinks & Data: Ethical Hacking
+DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nWednesday\, December 7 a
+ t 4:00 PM\n\nIn this Meetup we will dive into the field of Ethical Hacki
+ ng\, Cyber Security\, IT Security and the future of AI regarding these t
+ opics. **Location:** ...\n\nhttps://www.meetup.com/amsterdam-data-scienc
+ e/events/288006255/
+CLASS:PUBLIC
+CREATED:20220823T151333Z
+GEO:52.36;4.88
+LOCATION:Hoofdgebouw (De Boelelaan 1105\, Amsterdam\, NH\, Netherlands 10
+ 81 HV)
+URL:https://www.meetup.com/amsterdam-data-science/events/288006255/
+LAST-MODIFIED:20221102T163519Z
+UID:event_288006255@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072434Z
+DTSTART;TZID=Europe/Amsterdam:20221208T173000
+DTEND;TZID=Europe/Amsterdam:20221208T200000
+STATUS:CONFIRMED
+SUMMARY:MLOps Community Amsterdam Meetup
+DESCRIPTION:Amsterdam MLOps Community\nThursday\, December 8 at 5:30 PM\n
+ \nWelcome to a new live get together for the global (https://mlops.commu
+ nity/) in Amsterdam. We'll have a combination of talks\, lightning talks
+  and ampl...\n\nhttps://www.meetup.com/amsterdam-mlops-community/events/
+ 289492676/
+CLASS:PUBLIC
+CREATED:20221102T095735Z
+GEO:52.36;4.88
+LOCATION:Rembrandtplein 29 (Rembrandtplein 29\, Amsterdam\, NH\, Netherla
+ nds 1017 CT)
+URL:https://www.meetup.com/amsterdam-mlops-community/events/289492676/
+LAST-MODIFIED:20221124T120044Z
+UID:event_289492676@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072435Z
+DTSTART;TZID=Europe/Amsterdam:20221208T180000
+DTEND;TZID=Europe/Amsterdam:20221208T190000
+STATUS:CONFIRMED
+SUMMARY:Webinar "Using Open Source for Failure Prediction"
+DESCRIPTION:ODSC Amsterdam Data Science\nThursday\, December 8 at 6:00 PM
+ \n\n**To access this webinar\, please register here:** (https://hubs.li/
+ Q01sqR-60" class="linkified">https://hubs.li/Q01sqR-60](https://hubs.li/
+ Q01sqR-60) ...\n\nhttps://www.meetup.com/amsterdam-data-science-odsc/eve
+ nts/289908586/
+CLASS:PUBLIC
+CREATED:20221122T154041Z
+GEO:52.36;4.88
+LOCATION:Online event
+URL:https://www.meetup.com/amsterdam-data-science-odsc/events/289908586/
+LAST-MODIFIED:20221122T154041Z
+UID:event_289908586@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072438Z
+DTSTART;TZID=Europe/Amsterdam:20221214T180000
+DTEND;TZID=Europe/Amsterdam:20221214T235900
+STATUS:CONFIRMED
+SUMMARY:Winter Break Networking Drinks
+DESCRIPTION:Data Science Rotterdam\nWednesday\, December 14 at 6:00 PM\n\
+ nHello fellow data & AI enthusiasts! Following our previous summer netwo
+ rking event (great success if I can say so)\, we are organising another 
+ networki...\n\nhttps://www.meetup.com/data-science-rdm/events/289743367/
+ 
+CLASS:PUBLIC
+CREATED:20221114T091628Z
+GEO:51.93;4.48
+LOCATION:BrewDog Rotterdam (Halvemaanpassage 1\, Rotterdam\, ZH\, Netherl
+ ands 3011 DJ)
+URL:https://www.meetup.com/data-science-rdm/events/289743367/
+LAST-MODIFIED:20221122T130640Z
+UID:event_289743367@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072435Z
+DTSTART;TZID=Europe/Amsterdam:20221215T160000
+DTEND;TZID=Europe/Amsterdam:20221215T173000
+STATUS:CONFIRMED
+SUMMARY:Rapidly Build an AI-driven Expense Processing Microservice with a
+  No-code UI
+DESCRIPTION:Future of Data: Amsterdam\nThursday\, December 15 at 4:00 PM\
+ n\nDiscover how you can quickly leverage the no-code NiFi UI to design f
+ lows for processing expense receipts with AWS Textract AI service and ho
+ w to run ...\n\nhttps://www.meetup.com/futureofdata-amsterdam/events/290
+ 062633/
+CLASS:PUBLIC
+CREATED:20221130T173727Z
+GEO:52.36;4.88
+LOCATION:Online event
+URL:https://www.meetup.com/futureofdata-amsterdam/events/290062633/
+LAST-MODIFIED:20221201T044519Z
+UID:event_290062633@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072436Z
+DTSTART;TZID=Europe/Amsterdam:20230126T160000
+DTEND;TZID=Europe/Amsterdam:20230126T180000
+STATUS:CONFIRMED
+SUMMARY:Leiden Data Science - Personal Health Data & Privacy
+DESCRIPTION:Leiden Data Science\nThursday\, January 26 at 4:00 PM\n\nDuri
+ ng this event we will have 2 speaker and several guests that participate
+  in a round table discussion on the next step to faciliate the integrati
+ on...\n\nhttps://www.meetup.com/leiden-data-science/events/282713969/
+CLASS:PUBLIC
+CREATED:20211216T122253Z
+GEO:52.16;4.48
+LOCATION:PLNT Leiden (Langegracht 70\, Leiden\, ZH\, Netherlands 2312 NV)
+ 
+URL:https://www.meetup.com/leiden-data-science/events/282713969/
+LAST-MODIFIED:20221116T084823Z
+UID:event_282713969@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072437Z
+DTSTART;TZID=Europe/Amsterdam:20230126T173000
+DTEND;TZID=Europe/Amsterdam:20230126T203000
+STATUS:CONFIRMED
+SUMMARY:Fighting money laundering with MLOps\, graph analytics & unsuperv
+ ised learning
+DESCRIPTION:Data & Drinks\nThursday\, January 26 at 5:30 PM\n\nJoin Janua
+ ry's Data & Drinks for an interactive discussion about how Transactie Mo
+ nitoring Nederland (TMNL)\, an alliance of five of the biggest banks ...
+ \n\nhttps://www.meetup.com/data-drinks/events/289480605/
+CLASS:PUBLIC
+CREATED:20221101T204423Z
+GEO:52.36;4.88
+LOCATION:Xomnia (Raamstraat 7\, Amsterdam\, NH\, Netherlands 1016 XL)
+URL:https://www.meetup.com/data-drinks/events/289480605/
+LAST-MODIFIED:20221201T092227Z
+UID:event_289480605@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072436Z
+DTSTART;TZID=Europe/Amsterdam:20230307T150000
+DTEND;TZID=Europe/Amsterdam:20230307T170000
+STATUS:CONFIRMED
+SUMMARY:ADS AI Tech Week: Health
+DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nTuesday\, March 7 at 3:0
+ 0 PM\n\nThe purpose of the AI Tech Week is to offer a stage to the Data 
+ Science and AI ecosystem in Amsterdam. The content invites collaboration
+  between acade...\n\nhttps://www.meetup.com/amsterdam-data-science/event
+ s/289544098/
+CLASS:PUBLIC
+CREATED:20221104T141503Z
+GEO:52.36;4.88
+LOCATION:NA
+URL:https://www.meetup.com/amsterdam-data-science/events/289544098/
+LAST-MODIFIED:20221104T142421Z
+UID:event_289544098@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072436Z
+DTSTART;TZID=Europe/Amsterdam:20230308T150000
+DTEND;TZID=Europe/Amsterdam:20230308T173000
+STATUS:CONFIRMED
+SUMMARY:ADS AI Tech Week: Business
+DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nWednesday\, March 8 at 3
+ :00 PM\n\nThe purpose of the AI Tech Week is to offer a stage to the Dat
+ a Science and AI ecosystem in Amsterdam. The content invites collaborati
+ on between acade...\n\nhttps://www.meetup.com/amsterdam-data-science/eve
+ nts/289544174/
+CLASS:PUBLIC
+CREATED:20221104T142113Z
+GEO:52.36;4.88
+LOCATION:NA
+URL:https://www.meetup.com/amsterdam-data-science/events/289544174/
+LAST-MODIFIED:20221104T142504Z
+UID:event_289544174@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T072436Z
+DTSTART;TZID=Europe/Amsterdam:20230309T133000
+DTEND;TZID=Europe/Amsterdam:20230309T173000
+STATUS:CONFIRMED
+SUMMARY:ADS AI Teck Week: Public
+DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nThursday\, March 9 at 1:
+ 30 PM\n\nThe purpose of the AI Tech Week is to offer a stage to the Data
+  Science and AI ecosystem in Amsterdam. The content invites collaboratio
+ n between acade...\n\nhttps://www.meetup.com/amsterdam-data-science/even
+ ts/289544189/
+CLASS:PUBLIC
+CREATED:20221104T142242Z
+GEO:52.36;4.88
+LOCATION:NA
+URL:https://www.meetup.com/amsterdam-data-science/events/289544189/
+LAST-MODIFIED:20221104T142242Z
+UID:event_289544189@meetup.com
+END:VEVENT
+END:VCALENDAR
