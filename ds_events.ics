@@ -26,7 +26,7 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20221207T134606
+DTSTAMP:20221208T134606
 DTSTART;TZID=Europe/Amsterdam:20220928T080000
 DTEND;TZID=Europe/Amsterdam:20230126T170000
 STATUS:NA
@@ -45,50 +45,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T134606
-DTSTART;TZID=Europe/Amsterdam:20221207T103000
-DTEND;TZID=Europe/Amsterdam:20221207T140000
-STATUS:NA
-SUMMARY:ECDA Insights Session on AI in Retail
-DESCRIPTION:It is our pleasure to invite you to our event on Artificial Intelligence in Retail on the 7th of December. It is an interactive session between students and retailers organized by ECDA in collaboration with Digital Sundai. \n\n\n\nWe are inviting a selection of retailers to make this session as insightful as possible. Due to the special character of the event\, there are only limited seats available\, however feel free to extend this invitation to a max of 3 colleague or relations in your network. \n\n\n\nMore information \n\n\n\nThis is an in-person event where the retail sector\, the academic and student community meet to discuss innovations within retail analytics and how AI can be utilised to provide more value for retailers and their customers. \n\n\n\nThere will be presentations by Robert Rooderkerk (Academic Director of the ECDA Retail Analytics expert practice and Associate Professor of Operations Management at RSM\, Erasmus University) and Robin Zondag (Founder of Digital Sundai). Participating retail experts and students will be mixed into groups to discuss two propositions related to Retail AI. After the workshop\, a lunch is provided to continue the conversation and network together.Details \n\n\n\nDecember 7 from 10:45 until 14:00 hrs. \n\n\n\n————————— \n\n\n\nWalk-in 10:45-11:00 \n\n\n\n————————— \n\n\n\nSession 11:00-13:00 \n\n\n\n* Introduction (10min) \n\n\n\n* Presentation on retail innovation by Robert Rooderkerk (10min) \n\n\n\n* Presentation on Retail AI by Digital Sundai (10min) \n\n\n\n* Explaining first proposition (5min) \n\n\n\n* Working in groups (15min) \n\n\n\n* Presenting first proposition (15min) \n\n\n\n————- Coffee break (10min) \n\n\n\n* Explaining second proposition (5min) \n\n\n\n* Working in groups (15min) \n\n\n\n* Presenting first proposition (15min) \n\n\n\n* Wrap-up (10min) \n\n\n\n————————— \n\n\n\nLunch 1300-1400 \n\n\n\n————————— \n\n\n\nLocation \n\n\n\nThe event will take place at the Erasmus Data Collaboratory in the Polak building at the Erasmus University Rotterdam Campus. \n\n\n\nAddress: \n\n\n\nBurgemeester Oudlaan 50 \n\n\n\nPolak Building (1st floor) \n\n\n\n3062 PA Rotterdam \n\n\n\n________________________________ \n\n\n\nThe session is based on research done by Marloes Slotboom MSc. The study focuses on the use of AI applications in the retail sector and the current adoption of this technology by retailers. Results show that a customer-centric approach is inevitable for retailers to respond to customer demands. Therefore\, Marloes created a framework for mapping AI applications along the customer journey. During the workshop\, retailers and students will use this framework to support the discussion on AI’s role in the retail industry. \n\n\n\nAbout the author \n\n\n\nMarloes graduated recently at RSM where she studied Business Information Management after working for several years in e-commerce and digital marketing. She wrote her thesis in collaboration with AI consulting firm Digital Sundai. Next to her master’s\, she started her own digital consulting company\, where she gained expertise in digital business and especially marketing strategies used by retailers and other sectors in the Netherlands. \n\n\n\nNext to her work\, she likes to expand her horizons by travelling and has been living in Barcelona for three years. She is passionate about music and the cultural sector and enjoys volunteering and animal care. Unfortunately\, she cannot attend the workshop in person\, since she is on a digital nomad journey in Mexico and will be volunteering in the Bolivian jungle when the workshop takes place.
-CLASS:NA
-CREATED:20221102T152634Z
-GEO:NA
-LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
-URL:https://ecda.eur.nl/event/ecda-insights-session-on-ai-in-retail/
-LAST-MODIFIED:20221125T134242Z
-UID:13506-1670409000-1670421600@ecda.eur.nl
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/11/WPCoverSlide.png
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221207T124603Z
-DTSTART;TZID=Europe/Amsterdam:20221207T160000
-DTEND;TZID=Europe/Amsterdam:20221207T183000
-STATUS:CONFIRMED
-SUMMARY:ADS Drinks & Data: Ethical Hacking
-DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nWednesday\, December 7 a
- t 4:00 PM\n\nIn this Meetup we will dive into the field of Ethical Hacki
- ng\, Cyber Security\, IT Security and the future of AI regarding these t
- opics. **Location:** ...\n\nhttps://www.meetup.com/amsterdam-data-scienc
- e/events/288006255/
-CLASS:PUBLIC
-CREATED:20220823T151333Z
-GEO:52.36;4.88
-LOCATION:Centrum Wiskunde & Informatica (Science Park 123\, Amsterdam\, N
- H\, Netherlands 1098 XG)
-URL:https://www.meetup.com/amsterdam-data-science/events/288006255/
-LAST-MODIFIED:20221202T130845Z
-UID:event_288006255@meetup.com
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221207T134606
+DTSTAMP:20221208T134606
 DTSTART;TZID=Europe/Amsterdam:20221208T170000
 DTEND;TZID=Europe/Amsterdam:20221208T190000
 STATUS:NA
@@ -107,7 +64,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124601Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20221208T173000
 DTEND;TZID=Europe/Amsterdam:20221208T200000
 STATUS:CONFIRMED
@@ -131,7 +88,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124602Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20221208T173000
 DTEND;TZID=Europe/Amsterdam:20221208T183000
 STATUS:CONFIRMED
@@ -154,7 +111,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124602Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20221208T180000
 DTEND;TZID=Europe/Amsterdam:20221208T190000
 STATUS:CONFIRMED
@@ -177,7 +134,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124602Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20221213T100000
 DTEND;TZID=Europe/Amsterdam:20221213T110000
 STATUS:CONFIRMED
@@ -201,7 +158,32 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124604Z
+DTSTAMP:20221208T124604Z
+DTSTART;TZID=Europe/Amsterdam:20221213T190000
+DTEND;TZID=Europe/Amsterdam:20221213T200000
+STATUS:CONFIRMED
+SUMMARY:Tech talk: Centralize Data Security Governance on your Open Data 
+ Lakehouse
+DESCRIPTION:Amsterdam AI Developers Group\nTuesday\, December 13 at 7:00 
+ PM\n\nRegister on the event website to receive joining link: (https://ww
+ w.aicamp.ai/event/eventdetails/W2022121310" class="linkified">https://ww
+ w.aicamp.ai/...\n\nhttps://www.meetup.com/amsterdam-ai-developers-group/
+ events/290199230/
+CLASS:PUBLIC
+CREATED:20221207T182900Z
+GEO:52.36;4.88
+LOCATION:Online event
+URL:https://www.meetup.com/amsterdam-ai-developers-group/events/290199230
+ /
+LAST-MODIFIED:20221207T182900Z
+UID:event_290199230@meetup.com
+CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221208T124605Z
 DTSTART;TZID=Europe/Amsterdam:20221214T180000
 DTEND;TZID=Europe/Amsterdam:20221214T235900
 STATUS:CONFIRMED
@@ -225,7 +207,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124601Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20221215T160000
 DTEND;TZID=Europe/Amsterdam:20221215T173000
 STATUS:CONFIRMED
@@ -249,7 +231,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124602Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20230126T160000
 DTEND;TZID=Europe/Amsterdam:20230126T180000
 STATUS:CONFIRMED
@@ -272,7 +254,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124603Z
+DTSTAMP:20221208T124605Z
 DTSTART;TZID=Europe/Amsterdam:20230126T173000
 DTEND;TZID=Europe/Amsterdam:20230126T203000
 STATUS:CONFIRMED
@@ -295,7 +277,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T134606
+DTSTAMP:20221208T134606
 DTSTART;TZID=Europe/Amsterdam:20230302T000000
 DTEND;TZID=Europe/Amsterdam:20230302T235959
 STATUS:NA
@@ -314,7 +296,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124603Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20230307T150000
 DTEND;TZID=Europe/Amsterdam:20230307T170000
 STATUS:CONFIRMED
@@ -337,7 +319,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124603Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20230308T150000
 DTEND;TZID=Europe/Amsterdam:20230308T173000
 STATUS:CONFIRMED
@@ -360,7 +342,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T124603Z
+DTSTAMP:20221208T124604Z
 DTSTART;TZID=Europe/Amsterdam:20230309T133000
 DTEND;TZID=Europe/Amsterdam:20230309T173000
 STATUS:CONFIRMED
@@ -383,7 +365,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T134606
+DTSTAMP:20221208T134606
 DTSTART;TZID=Europe/Amsterdam:20230327T080000
 DTEND;TZID=Europe/Amsterdam:20230331T170000
 STATUS:NA
