@@ -1,32 +1,5 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//DATA//SCIENCE//MEETUPS//NL
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-ORIGINAL-URL:https://github.com/RMHogervorst/ds_calendar
-X-WR-CALNAME:Dutch Data Science Calendar
-X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-BEGIN:VTIMEZONE
-TZID:Europe/Amsterdam
-TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Amsterdam
-X-LIC-LOCATION:Europe/Amsterdam
-BEGIN:DAYLIGHT
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-TZNAME:CEST
-DTSTART:19700329T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-TZNAME:CET
-DTSTART:19701025T030000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20221208T134606
+DTSTAMP:20221209T134455
 DTSTART;TZID=Europe/Amsterdam:20220928T080000
 DTEND;TZID=Europe/Amsterdam:20230126T170000
 STATUS:NA
@@ -45,96 +18,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T134606
-DTSTART;TZID=Europe/Amsterdam:20221208T170000
-DTEND;TZID=Europe/Amsterdam:20221208T190000
-STATUS:NA
-SUMMARY:AI masterclasses – AI\, smart cities en aanpak van criminaliteit en overlast
-DESCRIPTION:AI Masterclasses Learning Community voor professionals \n\n\n\nAI Masterclasses Learning Community voor professionals \n\n\n\nHet doel van de masterclasses is om aan de professionals te laten zien hoe AI-ontwikkeling impact heeft op hun discipline en professionele handelen. \n\n\n\nNederlandstalig \n\n\n\nKosten voor deelname: 45 euro \n\n\n\nMasterclass certificaat per sessie
-CLASS:NA
-CREATED:20221107T171614Z
-GEO:NA
-LOCATION:NA
-URL:https://ecda.eur.nl/event/ai-masterclasses-learning-community-voor-professionals/
-LAST-MODIFIED:20221128T153818Z
-UID:13530-1670518800-1670526000@ecda.eur.nl
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/11/Screenshot-2022-11-07-181124.png
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
-DTSTART;TZID=Europe/Amsterdam:20221208T173000
-DTEND;TZID=Europe/Amsterdam:20221208T200000
-STATUS:CONFIRMED
-SUMMARY:MLOps Community Amsterdam Meetup
-DESCRIPTION:Amsterdam MLOps Community\nThursday\, December 8 at 5:30 PM\n
- \nWelcome to a new live get together for the global (https://mlops.commu
- nity/) in Amsterdam. We'll have a combination of talks\, lightning talks
-  and ampl...\n\nhttps://www.meetup.com/amsterdam-mlops-community/events/
- 289492676/
-CLASS:PUBLIC
-CREATED:20221102T095735Z
-GEO:52.36;4.88
-LOCATION:Rembrandtplein 29 (Rembrandtplein 29\, Amsterdam\, NH\, Netherla
- nds 1017 CT)
-URL:https://www.meetup.com/amsterdam-mlops-community/events/289492676/
-LAST-MODIFIED:20221124T120044Z
-UID:event_289492676@meetup.com
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
-DTSTART;TZID=Europe/Amsterdam:20221208T173000
-DTEND;TZID=Europe/Amsterdam:20221208T183000
-STATUS:CONFIRMED
-SUMMARY:Survival Analysis (Used for Predictive Maintenance)
-DESCRIPTION:Real Data Science Meetup\nThursday\, December 8 at 5:30 PM\n\
- nWe can proudly announce the next Pizza Session about Survival Analysis 
- by Ismail Aydin on Thursday\, December 8th! This pizza session is about 
- a specif...\n\nhttps://www.meetup.com/real-data-science-meetup/events/29
- 0105200/
-CLASS:PUBLIC
-CREATED:20221202T163625Z
-GEO:52.09;5.11
-LOCATION:Online event
-URL:https://www.meetup.com/real-data-science-meetup/events/290105200/
-LAST-MODIFIED:20221202T163625Z
-UID:event_290105200@meetup.com
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
-DTSTART;TZID=Europe/Amsterdam:20221208T180000
-DTEND;TZID=Europe/Amsterdam:20221208T190000
-STATUS:CONFIRMED
-SUMMARY:Webinar "Using Open Source for Failure Prediction"
-DESCRIPTION:ODSC Amsterdam Data Science\nThursday\, December 8 at 6:00 PM
- \n\n**To access this webinar\, please register here:** (https://hubs.li/
- Q01sqR-60" class="linkified">https://hubs.li/Q01sqR-60](https://hubs.li/
- Q01sqR-60) ...\n\nhttps://www.meetup.com/amsterdam-data-science-odsc/eve
- nts/289908586/
-CLASS:PUBLIC
-CREATED:20221122T154041Z
-GEO:52.36;4.88
-LOCATION:Online event
-URL:https://www.meetup.com/amsterdam-data-science-odsc/events/289908586/
-LAST-MODIFIED:20221122T154041Z
-UID:event_289908586@meetup.com
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
+DTSTAMP:20221209T124449Z
 DTSTART;TZID=Europe/Amsterdam:20221213T100000
 DTEND;TZID=Europe/Amsterdam:20221213T110000
 STATUS:CONFIRMED
@@ -158,7 +42,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
+DTSTAMP:20221209T124448Z
 DTSTART;TZID=Europe/Amsterdam:20221213T190000
 DTEND;TZID=Europe/Amsterdam:20221213T200000
 STATUS:CONFIRMED
@@ -183,7 +67,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T124605Z
+DTSTAMP:20221209T124452Z
 DTSTART;TZID=Europe/Amsterdam:20221214T180000
 DTEND;TZID=Europe/Amsterdam:20221214T235900
 STATUS:CONFIRMED
@@ -196,8 +80,8 @@ DESCRIPTION:Data Science Rotterdam\nWednesday\, December 14 at 6:00 PM\n\
 CLASS:PUBLIC
 CREATED:20221114T091628Z
 GEO:51.93;4.48
-LOCATION:De Gele Kanarie (Goudsesingel 284\, Rotterdam\, ZH\, Netherlands
-  3011 KH)
+LOCATION:De Gele Kanarie - Goudsesingel (Goudsesingel 284\, Rotterdam\, Z
+ H\, Netherlands 3011 KH)
 URL:https://www.meetup.com/data-science-rdm/events/289743367/
 LAST-MODIFIED:20221204T105332Z
 UID:event_289743367@meetup.com
@@ -207,7 +91,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
+DTSTAMP:20221209T124449Z
 DTSTART;TZID=Europe/Amsterdam:20221215T160000
 DTEND;TZID=Europe/Amsterdam:20221215T173000
 STATUS:CONFIRMED
@@ -231,7 +115,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
+DTSTAMP:20221209T124450Z
 DTSTART;TZID=Europe/Amsterdam:20230126T160000
 DTEND;TZID=Europe/Amsterdam:20230126T180000
 STATUS:CONFIRMED
@@ -254,7 +138,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T124605Z
+DTSTAMP:20221209T124451Z
 DTSTART;TZID=Europe/Amsterdam:20230126T173000
 DTEND;TZID=Europe/Amsterdam:20230126T203000
 STATUS:CONFIRMED
@@ -277,7 +161,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T134606
+DTSTAMP:20221209T134455
 DTSTART;TZID=Europe/Amsterdam:20230302T000000
 DTEND;TZID=Europe/Amsterdam:20230302T235959
 STATUS:NA
@@ -296,7 +180,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
+DTSTAMP:20221209T124450Z
 DTSTART;TZID=Europe/Amsterdam:20230307T150000
 DTEND;TZID=Europe/Amsterdam:20230307T170000
 STATUS:CONFIRMED
@@ -319,7 +203,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
+DTSTAMP:20221209T124450Z
 DTSTART;TZID=Europe/Amsterdam:20230308T150000
 DTEND;TZID=Europe/Amsterdam:20230308T173000
 STATUS:CONFIRMED
@@ -342,7 +226,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T124604Z
+DTSTAMP:20221209T124450Z
 DTSTART;TZID=Europe/Amsterdam:20230309T133000
 DTEND;TZID=Europe/Amsterdam:20230309T173000
 STATUS:CONFIRMED
@@ -365,7 +249,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221208T134606
+DTSTAMP:20221209T134455
 DTSTART;TZID=Europe/Amsterdam:20230327T080000
 DTEND;TZID=Europe/Amsterdam:20230331T170000
 STATUS:NA
