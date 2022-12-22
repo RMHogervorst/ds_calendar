@@ -1,5 +1,5 @@
 BEGIN:VEVENT
-DTSTAMP:20221221T124355Z
+DTSTAMP:20221222T124423Z
 DTSTART;TZID=Europe/Amsterdam:20230110T180000
 DTEND;TZID=Europe/Amsterdam:20230110T210000
 STATUS:CONFIRMED
@@ -18,13 +18,37 @@ URL:https://www.meetup.com/amsterdam-ai-developers-group/events/290371950
  /
 LAST-MODIFIED:20221216T184837Z
 UID:event_290371950@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T124424Z
+DTSTART;TZID=Europe/Amsterdam:20230111T140000
+DTEND;TZID=Europe/Amsterdam:20230111T173000
+STATUS:CONFIRMED
+SUMMARY:ADS Drinks & Data: CIDR meets ADS 
+DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nWednesday\, January 11 a
+ t 2:00 PM\n\nCIDR meets ADS 2023 is happening. ADS would like to invite 
+ you to this special meetup that is happening in collaboration with (http
+ s://www.cidrdb.org/...\n\nhttps://www.meetup.com/amsterdam-data-science/
+ events/290440073/
+CLASS:PUBLIC
+CREATED:20221220T155217Z
+GEO:52.36;4.88
+LOCATION:Mövenpick Hotel Amsterdam City Centre (Piet Heinkade 11\, Amster
+ dam\, NH\, Netherlands 1019 BR)
+URL:https://www.meetup.com/amsterdam-data-science/events/290440073/
+LAST-MODIFIED:20221221T174056Z
+UID:event_290440073@meetup.com
+ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T124424Z
 DTSTART;TZID=Europe/Amsterdam:20230112T145500
 DTEND;TZID=Europe/Amsterdam:20230112T173000
 STATUS:CONFIRMED
@@ -39,15 +63,15 @@ CREATED:20221213T122332Z
 GEO:52.36;4.88
 LOCATION:Lab42 (Science Park 900\, Amsterdam\, NH\, Netherlands 1012 WX)
 URL:https://www.meetup.com/amsterdam-data-science/events/290309882/
-LAST-MODIFIED:20221216T162040Z
+LAST-MODIFIED:20221221T124440Z
 UID:event_290309882@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T124425Z
 DTSTART;TZID=Europe/Amsterdam:20230117T170000
 DTEND;TZID=Europe/Amsterdam:20230117T190000
 STATUS:CONFIRMED
@@ -66,13 +90,13 @@ URL:https://www.meetup.com/amsterdam-medical-data-science/events/29028442
  2/
 LAST-MODIFIED:20221219T103657Z
 UID:event_290284422@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124355Z
+DTSTAMP:20221222T124424Z
 DTSTART;TZID=Europe/Amsterdam:20230118T150000
 DTEND;TZID=Europe/Amsterdam:20230118T220000
 STATUS:CONFIRMED
@@ -89,13 +113,13 @@ LOCATION:Online event
 URL:https://www.meetup.com/amsterdam-data-science-odsc/events/290312539/
 LAST-MODIFIED:20221213T155815Z
 UID:event_290312539@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T124426Z
 DTSTART;TZID=Europe/Amsterdam:20230125T173000
 DTEND;TZID=Europe/Amsterdam:20230125T203000
 STATUS:CONFIRMED
@@ -112,13 +136,32 @@ LOCATION:Burgemeester Oudlaan 50 (Burgemeester Oudlaan 50\, Rotterdam\, Z
 URL:https://www.meetup.com/data-science-rdm/events/290255233/
 LAST-MODIFIED:20221210T092853Z
 UID:event_290255233@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T134427
+DTSTART;TZID=Europe/Amsterdam:20230125T173000
+DTEND;TZID=Europe/Amsterdam:20230125T203000
+STATUS:NA
+SUMMARY:11th Rotterdam Data Science Meetup - Applied Data Science in Person
+DESCRIPTION:Details\n\n\n\nHello AI and DS enthusiasts!We would like to invite you to our 11th DS Rotterdam Meetup on Applied Data Science. We are excited to open the doors and gather again in person.Please RSVP belowWhere: ECDA (Polack building)\, Burgemeester Oudlaan 50\, 3062 PA Rotterdam\, The NetherlandsNote that we have a limited number of spots available. So\, if you can no longer make it\, please let us know as soon as possible – that way we can assign your seat to someone on the waiting list.PROGRAM17:30 – 17:40: Intro by your hosts17:40 – 18:00: Talk 118:00 – 18:20: Talk 218:20 – 18:30: Closing remarks18:30 – 20:30: Networking with food and drinks \n\n\n\nTALKSTalk 1: Erasmus Q-Intelligence | Dr. Koen Bel | Demand forecasting for Fast Moving Consumer GoodsAbstract : Accurate demand forecasts lead to better understanding of demand\, better storage positions\, less wastage and higher profit. In this talk\, we dive into the techniques behind demand forecasting\, how to explain and handle uncertainty in a real-time application and how to utilize the information from a demand forecasting tool. We focus both on econometric theory and real-life application. How can data science be implemented and have impact in daily practice? \n\n\n\nBio: Koen is data scientist at Erasmus Q-Intelligence. With his background as econometrician\, he applies techniques such as random forest\, GLM\, conjoint analysis and more to topics like demand forecasting\, marketing and HR analytics. He combines academic knowledge with practical implementation to get the most out of data analytics. \n\n\n\nTalk 2: Atos | Bram Miedema & Sébastien Naus | Design and productization of NLP- solution \n\n\n\nAbstract : Atos is handling a large project at a manufacturer of aircraft parts in Denmark. This project automates the processing of Requests for Quotations coming from customers around the world. These requests come via different channels and in free text form. Atos has developed a cloud-native serverless application and a suite of Machine Learning models that automate the end-to-end RFQ flow using Natural Language Understanding. The business context and functional flow of the solution will be introduced before putting an emphasis on the Machine Learning models created and their operationalization using fully-automated MLOps pipelines. \n\n\n\nBio: Bram Miedema designs and matures data driven solutions for several delivery projects and customers within Atos. He has been part of the team since the start of the project and saw through to make the total system is designed to meet industry standards\, maturing it\, and keeping it maintainable. Bram has a background in Bioinformatics. From the start of his career Bram worked on the many aspects of making AI model adaptation more easy\, robust\, and maintainable towards the future.Sébastien Naus is the solution lead and Machine Learning engineer on the project. He has a broad interest in all aspects of data science and machine learning with a specific emphasis on the operationalisation of ML models (MLOps). Sébastien has a background in Engineering Physics with a speciality in semiconductor electronics. He started his career as a consultant in the telecoms sector before moving towards data science. For the past 4 years\, he has worked at Atos as a data science consultant\, delivering data solutions to large companies across Northern Europe.
+CLASS:NA
+CREATED:20221222T104056Z
+GEO:NA
+LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
+URL:https://ecda.eur.nl/event/11th-rotterdam-data-science-meetup-applied-data-science-in-person/
+LAST-MODIFIED:20221222T104057Z
+UID:13711-1674667800-1674678600@ecda.eur.nl
+ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T124425Z
 DTSTART;TZID=Europe/Amsterdam:20230125T180000
 DTEND;TZID=Europe/Amsterdam:20230125T200000
 STATUS:CONFIRMED
@@ -138,13 +181,13 @@ URL:https://www.meetup.com/datamission-data-and-digital-technology-for-hu
  manity/events/290294500/
 LAST-MODIFIED:20221212T170628Z
 UID:event_290294500@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T124424Z
 DTSTART;TZID=Europe/Amsterdam:20230126T160000
 DTEND;TZID=Europe/Amsterdam:20230126T180000
 STATUS:CONFIRMED
@@ -161,13 +204,32 @@ LOCATION:PLNT Leiden (Langegracht 70\, Leiden\, ZH\, Netherlands 2312 NV)
 URL:https://www.meetup.com/leiden-data-science/events/282713969/
 LAST-MODIFIED:20221116T084823Z
 UID:event_282713969@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T134427
+DTSTART;TZID=Europe/Amsterdam:20230126T160000
+DTEND;TZID=Europe/Amsterdam:20230126T190000
+STATUS:NA
+SUMMARY:Erasmus Thesis Awards: Impactful Data Analytics
+DESCRIPTION:Are you ready to write your thesis? Do you need some inspiration from former students from your very own master program\, or want to meet data-experts from the field?  \n\n\n\nOn the 26th of January\, we will host the Erasmus Thesis Awards: Impactful Data Analytics\, organized by MAEUR and Erasmus Centre of Data Analytics! During this award ceremony\, the top students from four data-oriented master programs will present their thesis to a team of judges which consists of data-experts from the field. The winning thesis will be rewarded with a cheque by the Erasmus Centre of Data Analytics (ECDA)!  \n\n\n\nWe believe that data and AI are changemakers to create social impact. Therefore\, we want to showcase the EUR talent in data analytics and AI\, to inspire the new generation of thesis writing students\, showcase what the possibilities are for their own thesis\, and for career journeys afterwards. \n\n\n\nThe nominated theses that will be presented come from the following master programs:  \n\n\n\n\nBusiness Information Management (RSM)\n\n\n\nBusiness Analytics Management (RSM)\n\n\n\nData Science and Marketing Analytics (ESE)\n\n\n\nEconometrics (ESE) \n\n\n\n\nThe judges\, which are data-experts from various companies\, will be present during the networking drinks afterwards. Next to getting some inspiration for your thesis\, this will also give you the opportunity to meet your potential future employer. 
+CLASS:NA
+CREATED:20221221T134711Z
+GEO:NA
+LOCATION:NA
+URL:https://ecda.eur.nl/event/erasmus-thesis-awards-impactful-data-analytics/
+LAST-MODIFIED:20221221T135542Z
+UID:13698-1674748800-1674759600@ecda.eur.nl
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Instagram-post.png
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T124425Z
 DTSTART;TZID=Europe/Amsterdam:20230126T173000
 DTEND;TZID=Europe/Amsterdam:20230126T203000
 STATUS:CONFIRMED
@@ -184,32 +246,13 @@ LOCATION:Xomnia (Raamstraat 7\, Amsterdam\, NH\, Netherlands 1016 XL)
 URL:https://www.meetup.com/data-drinks/events/289480605/
 LAST-MODIFIED:20221201T092227Z
 UID:event_289480605@meetup.com
+ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T134357
-DTSTART;TZID=Europe/Amsterdam:20230302T000000
-DTEND;TZID=Europe/Amsterdam:20230302T235959
-STATUS:NA
-SUMMARY:Erasmus Data Summit
-DESCRIPTION:
-CLASS:NA
-CREATED:20220930T221212Z
-GEO:NA
-LOCATION:NA
-URL:https://ecda.eur.nl/event/erasmus-data-summit-2/
-LAST-MODIFIED:20220930T221616Z
-UID:13426-1677715200-1677801599@ecda.eur.nl
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T124424Z
 DTSTART;TZID=Europe/Amsterdam:20230307T150000
 DTEND;TZID=Europe/Amsterdam:20230307T170000
 STATUS:CONFIRMED
@@ -226,13 +269,13 @@ LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544098/
 LAST-MODIFIED:20221104T142421Z
 UID:event_289544098@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T124424Z
 DTSTART;TZID=Europe/Amsterdam:20230308T150000
 DTEND;TZID=Europe/Amsterdam:20230308T173000
 STATUS:CONFIRMED
@@ -249,13 +292,13 @@ LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544174/
 LAST-MODIFIED:20221104T142504Z
 UID:event_289544174@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T124356Z
+DTSTAMP:20221222T124424Z
 DTSTART;TZID=Europe/Amsterdam:20230309T133000
 DTEND;TZID=Europe/Amsterdam:20230309T173000
 STATUS:CONFIRMED
@@ -272,32 +315,32 @@ LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544189/
 LAST-MODIFIED:20221104T142242Z
 UID:event_289544189@meetup.com
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T134357
+DTSTAMP:20221222T134427
 DTSTART;TZID=Europe/Amsterdam:20230322T080000
 DTEND;TZID=Europe/Amsterdam:20230622T210000
 STATUS:NA
-SUMMARY:ECDA Leadership Challenge with Data Analytics (Spring 2023 Edition)
+SUMMARY:ECDA Leadership Challenge with Data Analytics | Regular Track (Spring 2023 Edition)
 DESCRIPTION:Artificial Intelligence will without any doubt change the way we will do business in the future. As a matter of fact\, it is already changing many businesses that we are involved in today. But what is needed to make Artificial Intelligence a valuable part of the way we do business ourselves? Many experts believe that successful Artificial Intelligence applications hinge on the so-called b-smact technologies (Blockchain\, Social media\, Mobile use\, Analytics\, Cloud and Things-on-the-internet or better known as IoT). The fueling component of those technologies is Big Data. This insight will require a whole new set of business skills. Understanding and working with new technologies for big data collection\, analysis and prediction will not create only huge opportunities for business\, but also ethical\, legal\, privacy and technical issues concerning every part of the organization. It will influence customer relationships\, redefine how firms develop new products and services\, change how operations are organized and managed\, improve demand and supply networks\, and provide the basis for new business models. It will demand a data-driven focus of everyone involved \n\n\n\nThis training programme combines the science of business\, data and societal perspectives. Participants – who usually join with a company team of 3 to 5 persons – acquire a broad knowledge and diverse skills related to data analytics which may lead to new insights that drive new value creation opportunities. Such learning by doing manifests itself along two dimensions: across multiple levels (individual\, group\, and corporate) and across multiple functions.
 CLASS:NA
 CREATED:20220315T095802Z
 GEO:NA
 LOCATION:Hybrid
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-september-2022-edition/
-LAST-MODIFIED:20221213T101630Z
+LAST-MODIFIED:20221222T105245Z
 UID:12799-1679472000-1687467600@ecda.eur.nl
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114422.png
 CATEGORIES:Leadership Challenges with Data Analytics
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/03/Screenshot-2022-03-15-at-10.59.00.png
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221221T134357
+DTSTAMP:20221222T134427
 DTSTART;TZID=Europe/Amsterdam:20230327T080000
 DTEND;TZID=Europe/Amsterdam:20230331T170000
 STATUS:NA
@@ -310,9 +353,47 @@ LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, So
 URL:https://ecda.eur.nl/event/urban-innovation-executive-leadership-programme/
 LAST-MODIFIED:20221107T172005Z
 UID:12562-1679904000-1680282000@ecda.eur.nl
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-CATEGORIES:Urban Innovation Executive Leadership Programme
 ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:Urban Innovation Executive Leadership Programme
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T134427
+DTSTART;TZID=Europe/Amsterdam:20230418T080000
+DTEND;TZID=Europe/Amsterdam:20230704T210000
+STATUS:NA
+SUMMARY:ECDA Leadership Challenge with Data Analytics | Education Track (Spring 2023 Edition)
+DESCRIPTION:The use of data and application of analytics and artificial intelligence (AI) will without any doubtchange the way we design and operate our Higher Education. As a matter of fact\, today it is alreadychanging our educational institutions. But what is needed to make analytics and AI valuable partsof the way we organize our education? Many experts believe that successful transformation of ourHigher Education hinges on five pillars: strategy\, hr and culture\, organisation\, governance andcompliance\, ICT.This insight will require a whole new set of skills and ways of working. Understanding and workingwith new technologies for (big) data collection\, analysis and prediction will not create only hugeopportunities\, but also ethical\, legal\, privacy and technical issues concerning every part of theorganization. It will influence the relationship with our students\, redefines how new programs andservices are developed\, changes how operations are managed\, and provides the basis for newservice offerings. It will demand a data driven focus of everyone involved in the organization.This training programme combines the science of business\, data\, and societal perspectives.Participants – who usually join with a team of 3 to 5 persons – acquire a broad knowledge and diverseskills related to data analytics\, which may lead to new insights that drive new value creationopportunities in the context of higher education. Such learning by doing manifests itself along twodimensions: across multiple levels (individual\, group) and across multiple functions
+CLASS:NA
+CREATED:20221222T105153Z
+GEO:NA
+LOCATION:Hybrid
+URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-education-track-spring-2023-edition/
+LAST-MODIFIED:20221222T105153Z
+UID:13716-1681804800-1688504400@ecda.eur.nl
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
+CATEGORIES:Leadership Challenges with Data Analytics
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T134427
+DTSTART;TZID=Europe/Amsterdam:20230425T000000
+DTEND;TZID=Europe/Amsterdam:20230425T235959
+STATUS:NA
+SUMMARY:Erasmus Data Summit
+DESCRIPTION:
+CLASS:NA
+CREATED:20220930T221212Z
+GEO:NA
+LOCATION:NA
+URL:https://ecda.eur.nl/event/erasmus-data-summit-2/
+LAST-MODIFIED:20221222T103651Z
+UID:13426-1682380800-1682467199@ecda.eur.nl
+ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/10/CAP_0947-scaled.jpg
 END:VEVENT
 END:VCALENDAR
