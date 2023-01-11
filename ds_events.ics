@@ -1,38 +1,13 @@
 BEGIN:VEVENT
-DTSTAMP:20230110T124659Z
-DTSTART;TZID=Europe/Amsterdam:20230110T180000
-DTEND;TZID=Europe/Amsterdam:20230110T210000
-STATUS:CONFIRMED
-SUMMARY:StateOfTheArt() - Applied AI Conference (Virtual\, Free and Inter
- active)
-DESCRIPTION:Amsterdam AI Developers Group\nTuesday\, January 10 at 6:00 P
- M\n\nRegister on the event website to receive joining link: (https://www
- .aicamp.ai/event/eventdetails/W2023011009" class="linkified">https://www
- .aicamp.ai/...\n\nhttps://www.meetup.com/amsterdam-ai-developers-group/e
- vents/290371950/
-CLASS:PUBLIC
-CREATED:20221216T184837Z
-GEO:52.36;4.88
-LOCATION:Online event
-URL:https://www.meetup.com/amsterdam-ai-developers-group/events/290371950
- /
-LAST-MODIFIED:20221216T184837Z
-UID:event_290371950@meetup.com
-ATTACH;FMTTYPE=image/png:NA
-CATEGORIES:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230110T124701Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230111T140000
 DTEND;TZID=Europe/Amsterdam:20230111T173000
 STATUS:CONFIRMED
 SUMMARY:ADS Drinks & Data: CIDR meets ADS 
 DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nWednesday\, January 11 a
- t 2:00 PM\n\nMark your calendars for **CIDR meets ADS** on **Wednesday\,
- ** **January 11th 2023**! ADS would like to **invite you** to this speci
- al meetup in collabo...\n\nhttps://www.meetup.com/amsterdam-data-science
+ t 2:00 PM\n\nMark your calendars for CIDR meets ADS on Wednesday\, Janua
+ ry 11th 2023! ADS would like to invite you to this special meetup in col
+ laboration with(http...\n\nhttps://www.meetup.com/amsterdam-data-science
  /events/290440073/
 CLASS:PUBLIC
 CREATED:20221220T155217Z
@@ -40,7 +15,7 @@ GEO:52.36;4.88
 LOCATION:Mövenpick Hotel Amsterdam City Centre (Piet Heinkade 11\, Amster
  dam\, NH\, Netherlands 1019 BR)
 URL:https://www.meetup.com/amsterdam-data-science/events/290440073/
-LAST-MODIFIED:20230105T140230Z
+LAST-MODIFIED:20230111T093310Z
 UID:event_290440073@meetup.com
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
@@ -48,7 +23,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124701Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230112T145500
 DTEND;TZID=Europe/Amsterdam:20230112T173000
 STATUS:CONFIRMED
@@ -63,7 +38,7 @@ CREATED:20221213T122332Z
 GEO:52.36;4.88
 LOCATION:Lab42 (Science Park 900\, Amsterdam\, NH\, Netherlands 1012 WX)
 URL:https://www.meetup.com/amsterdam-data-science/events/290309882/
-LAST-MODIFIED:20230110T102255Z
+LAST-MODIFIED:20230110T163311Z
 UID:event_290309882@meetup.com
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
@@ -71,7 +46,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124700Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230112T180000
 DTEND;TZID=Europe/Amsterdam:20230112T190000
 STATUS:CONFIRMED
@@ -94,7 +69,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124702Z
+DTSTAMP:20230111T124710Z
 DTSTART;TZID=Europe/Amsterdam:20230117T170000
 DTEND;TZID=Europe/Amsterdam:20230117T190000
 STATUS:CONFIRMED
@@ -119,7 +94,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124700Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230117T180000
 DTEND;TZID=Europe/Amsterdam:20230117T190000
 STATUS:CONFIRMED
@@ -143,7 +118,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124700Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230118T150000
 DTEND;TZID=Europe/Amsterdam:20230118T220000
 STATUS:CONFIRMED
@@ -166,7 +141,30 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124702Z
+DTSTAMP:20230111T124709Z
+DTSTART;TZID=Europe/Amsterdam:20230118T173000
+DTEND;TZID=Europe/Amsterdam:20230118T213000
+STATUS:CONFIRMED
+SUMMARY:PyData @ Picnic: NLP in Action & Dockering
+DESCRIPTION:PyData Amsterdam\nWednesday\, January 18 at 5:30 PM\n\nPyData
+  is back in the new year! We are kicking off the meetup season on **Wedn
+ esday the 18th of January\, from 17:30 until 21:30**. The first 2023 PyD
+ a...\n\nhttps://www.meetup.com/pydata-nl/events/290850485/
+CLASS:PUBLIC
+CREATED:20230110T161054Z
+GEO:52.36;4.88
+LOCATION:Picnic HQ (Van Marwijk Kooystraat 15\, Amsterdam\, NH\, Netherla
+ nds 1114 AG)
+URL:https://www.meetup.com/pydata-nl/events/290850485/
+LAST-MODIFIED:20230110T161146Z
+UID:event_290850485@meetup.com
+ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230111T124711Z
 DTSTART;TZID=Europe/Amsterdam:20230125T173000
 DTEND;TZID=Europe/Amsterdam:20230125T203000
 STATUS:CONFIRMED
@@ -189,7 +187,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T134704
+DTSTAMP:20230111T134713
 DTSTART;TZID=Europe/Amsterdam:20230125T173000
 DTEND;TZID=Europe/Amsterdam:20230125T203000
 STATUS:NA
@@ -208,7 +206,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124702Z
+DTSTAMP:20230111T124710Z
 DTSTART;TZID=Europe/Amsterdam:20230125T180000
 DTEND;TZID=Europe/Amsterdam:20230125T200000
 STATUS:CONFIRMED
@@ -234,22 +232,22 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124700Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230126T160000
 DTEND;TZID=Europe/Amsterdam:20230126T180000
 STATUS:CONFIRMED
 SUMMARY:Leiden Data Science - Personal Health Data & Privacy
-DESCRIPTION:Leiden Data Science\nThursday\, January 26 at 4:00 PM\n\nDuri
- ng this event we will have 2 speaker and several guests that participate
-  in a round table discussion on the next step to faciliate the integrati
- on...\n\nhttps://www.meetup.com/leiden-data-science/events/282713969/
+DESCRIPTION:Leiden Data Science\nThursday\, January 26 at 4:00 PM\n\nLeid
+ en Data Science is back in the new year! We are kicking off the meetup s
+ eason on **Thursday the 26th of January\, from 16:00 to 17:00**. During 
+ thi...\n\nhttps://www.meetup.com/leiden-data-science/events/282713969/
 CLASS:PUBLIC
 CREATED:20211216T122253Z
 GEO:52.16;4.48
 LOCATION:PLNT Leiden (Langegracht 70\, Leiden\, ZH\, Netherlands 2312 NV)
  
 URL:https://www.meetup.com/leiden-data-science/events/282713969/
-LAST-MODIFIED:20221116T084823Z
+LAST-MODIFIED:20230111T120649Z
 UID:event_282713969@meetup.com
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
@@ -257,7 +255,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T134704
+DTSTAMP:20230111T134713
 DTSTART;TZID=Europe/Amsterdam:20230126T160000
 DTEND;TZID=Europe/Amsterdam:20230126T190000
 STATUS:NA
@@ -276,7 +274,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124701Z
+DTSTAMP:20230111T124710Z
 DTSTART;TZID=Europe/Amsterdam:20230126T173000
 DTEND;TZID=Europe/Amsterdam:20230126T203000
 STATUS:CONFIRMED
@@ -299,7 +297,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124701Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230307T150000
 DTEND;TZID=Europe/Amsterdam:20230307T170000
 STATUS:CONFIRMED
@@ -322,7 +320,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124701Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230308T150000
 DTEND;TZID=Europe/Amsterdam:20230308T173000
 STATUS:CONFIRMED
@@ -345,7 +343,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T124701Z
+DTSTAMP:20230111T124709Z
 DTSTART;TZID=Europe/Amsterdam:20230309T133000
 DTEND;TZID=Europe/Amsterdam:20230309T173000
 STATUS:CONFIRMED
@@ -368,7 +366,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T134704
+DTSTAMP:20230111T134713
 DTSTART;TZID=Europe/Amsterdam:20230322T080000
 DTEND;TZID=Europe/Amsterdam:20230622T210000
 STATUS:NA
@@ -387,7 +385,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T134704
+DTSTAMP:20230111T134713
 DTSTART;TZID=Europe/Amsterdam:20230327T080000
 DTEND;TZID=Europe/Amsterdam:20230331T170000
 STATUS:NA
@@ -406,7 +404,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T134704
+DTSTAMP:20230111T134713
 DTSTART;TZID=Europe/Amsterdam:20230418T080000
 DTEND;TZID=Europe/Amsterdam:20230704T210000
 STATUS:NA
@@ -425,7 +423,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T134704
+DTSTAMP:20230111T134713
 DTSTART;TZID=Europe/Amsterdam:20230425T000000
 DTEND;TZID=Europe/Amsterdam:20230425T235959
 STATUS:NA
