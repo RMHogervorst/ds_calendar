@@ -1,97 +1,5 @@
 BEGIN:VEVENT
-DTSTAMP:20230125T124618Z
-DTSTART;TZID=Europe/Amsterdam:20230125T173000
-DTEND;TZID=Europe/Amsterdam:20230125T203000
-STATUS:CONFIRMED
-SUMMARY:11th DS Rotterdam Meetup **Applied Data Science** - in-person
-DESCRIPTION:Data Science Rotterdam\nWednesday\, January 25 at 5:30 PM\n\n
- Hello AI and DS enthusiasts!We would like to invite you to our 11th DS R
- otterdam Meetup on Applied Data Science. We are excited to open the door
- s and ...\n\nhttps://www.meetup.com/data-science-rdm/events/290255233/
-CLASS:PUBLIC
-CREATED:20221210T092704Z
-GEO:51.93;4.48
-LOCATION:Burgemeester Oudlaan 50 (Burgemeester Oudlaan 50\, Rotterdam\, Z
- H\, Netherlands 3062 PA)
-URL:https://www.meetup.com/data-science-rdm/events/290255233/
-LAST-MODIFIED:20230123T190251Z
-UID:event_290255233@meetup.com
-ATTACH;FMTTYPE=image/png:NA
-CATEGORIES:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230125T134619
-DTSTART;TZID=Europe/Amsterdam:20230125T173000
-DTEND;TZID=Europe/Amsterdam:20230125T203000
-STATUS:NA
-SUMMARY:11th Rotterdam Data Science Meetup - Applied Data Science in Person
-DESCRIPTION:Details\n\n\n\nHello AI and DS enthusiasts!We would like to invite you to our 11th DS Rotterdam Meetup on Applied Data Science. We are excited to open the doors and gather again in person.Please RSVP belowWhere: ECDA (Polack building)\, Burgemeester Oudlaan 50\, 3062 PA Rotterdam\, The NetherlandsNote that we have a limited number of spots available. So\, if you can no longer make it\, please let us know as soon as possible – that way we can assign your seat to someone on the waiting list.PROGRAM17:30 – 17:40: Intro by your hosts17:40 – 18:00: Talk 118:00 – 18:20: Talk 218:20 – 18:30: Closing remarks18:30 – 20:30: Networking with food and drinks \n\n\n\nTALKSTalk 1: Erasmus Q-Intelligence | Dr. Koen Bel | Demand forecasting for Fast Moving Consumer GoodsAbstract : Accurate demand forecasts lead to better understanding of demand\, better storage positions\, less wastage and higher profit. In this talk\, we dive into the techniques behind demand forecasting\, how to explain and handle uncertainty in a real-time application and how to utilize the information from a demand forecasting tool. We focus both on econometric theory and real-life application. How can data science be implemented and have impact in daily practice? \n\n\n\nBio: Koen is data scientist at Erasmus Q-Intelligence. With his background as econometrician\, he applies techniques such as random forest\, GLM\, conjoint analysis and more to topics like demand forecasting\, marketing and HR analytics. He combines academic knowledge with practical implementation to get the most out of data analytics. \n\n\n\nTalk 2: Atos | Bram Miedema & Sébastien Naus | Design and productization of NLP- solution \n\n\n\nAbstract : Atos is handling a large project at a manufacturer of aircraft parts in Denmark. This project automates the processing of Requests for Quotations coming from customers around the world. These requests come via different channels and in free text form. Atos has developed a cloud-native serverless application and a suite of Machine Learning models that automate the end-to-end RFQ flow using Natural Language Understanding. The business context and functional flow of the solution will be introduced before putting an emphasis on the Machine Learning models created and their operationalization using fully-automated MLOps pipelines. \n\n\n\nBio: Bram Miedema designs and matures data driven solutions for several delivery projects and customers within Atos. He has been part of the team since the start of the project and saw through to make the total system is designed to meet industry standards\, maturing it\, and keeping it maintainable. Bram has a background in Bioinformatics. From the start of his career Bram worked on the many aspects of making AI model adaptation more easy\, robust\, and maintainable towards the future.Sébastien Naus is the solution lead and Machine Learning engineer on the project. He has a broad interest in all aspects of data science and machine learning with a specific emphasis on the operationalisation of ML models (MLOps). Sébastien has a background in Engineering Physics with a speciality in semiconductor electronics. He started his career as a consultant in the telecoms sector before moving towards data science. For the past 4 years\, he has worked at Atos as a data science consultant\, delivering data solutions to large companies across Northern Europe.
-CLASS:NA
-CREATED:20221222T104056Z
-GEO:NA
-LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
-URL:https://ecda.eur.nl/event/11th-rotterdam-data-science-meetup-applied-data-science-in-person/
-LAST-MODIFIED:20221222T104057Z
-UID:13711-1674667800-1674678600@ecda.eur.nl
-ATTACH;FMTTYPE=image/png:NA
-CATEGORIES:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230125T124617Z
-DTSTART;TZID=Europe/Amsterdam:20230125T180000
-DTEND;TZID=Europe/Amsterdam:20230125T190000
-STATUS:CONFIRMED
-SUMMARY:Open source Data Lake Mgmt\, Curation\, and Governance for New&Gr
- owing Companies
-DESCRIPTION:ODSC Amsterdam Data Science\nWednesday\, January 25 at 6:00 P
- M\n\n**To access this webinar\, please register here:** (https://hubs.li
- /Q01xk_3p0" class="linkified">https://hubs.li/Q01xk_3p0](https://hubs.li
- /Q01xk_3p0) ...\n\nhttps://www.meetup.com/amsterdam-data-science-odsc/ev
- ents/290998282/
-CLASS:PUBLIC
-CREATED:20230117T120813Z
-GEO:52.36;4.88
-LOCATION:Online event
-URL:https://www.meetup.com/amsterdam-data-science-odsc/events/290998282/
-LAST-MODIFIED:20230117T120839Z
-UID:event_290998282@meetup.com
-ATTACH;FMTTYPE=image/png:NA
-CATEGORIES:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230125T124618Z
-DTSTART;TZID=Europe/Amsterdam:20230125T180000
-DTEND;TZID=Europe/Amsterdam:20230125T200000
-STATUS:CONFIRMED
-SUMMARY:Train Crowdedness Prediction | Improving Decisionmaking in Voting
-  & Education
-DESCRIPTION:DataMission - Data & Digital Technology for Humanity\nWednesd
- ay\, January 25 at 6:00 PM\n\nWe are excited to host this in-person meet
- up to kick off the new year! The venue is GoDataDriven HQ\, Wibautstraat
-  202 in Amsterdam. Food will be serve...\n\nhttps://www.meetup.com/datam
- ission-data-and-digital-technology-for-humanity/events/290294500/
-CLASS:PUBLIC
-CREATED:20221212T170601Z
-GEO:52.36;4.88
-LOCATION:GoDataDriven (Wibautstraat 202\, Amsterdam\, NH\, Netherlands 10
- 91 GS)
-URL:https://www.meetup.com/datamission-data-and-digital-technology-for-hu
- manity/events/290294500/
-LAST-MODIFIED:20230117T221005Z
-UID:event_290294500@meetup.com
-ATTACH;FMTTYPE=image/png:NA
-CATEGORIES:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230125T124617Z
+DTSTAMP:20230126T124814Z
 DTSTART;TZID=Europe/Amsterdam:20230126T160000
 DTEND;TZID=Europe/Amsterdam:20230126T180000
 STATUS:CONFIRMED
@@ -114,7 +22,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T134619
+DTSTAMP:20230126T134820
 DTSTART;TZID=Europe/Amsterdam:20230126T160000
 DTEND;TZID=Europe/Amsterdam:20230126T190000
 STATUS:NA
@@ -133,7 +41,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T124618Z
+DTSTAMP:20230126T124816Z
 DTSTART;TZID=Europe/Amsterdam:20230126T173000
 DTEND;TZID=Europe/Amsterdam:20230126T203000
 STATUS:CONFIRMED
@@ -156,7 +64,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T124617Z
+DTSTAMP:20230126T124814Z
 DTSTART;TZID=Europe/Amsterdam:20230131T180000
 DTEND;TZID=Europe/Amsterdam:20230131T190000
 STATUS:CONFIRMED
@@ -179,22 +87,22 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T124618Z
-DTSTART;TZID=Europe/Amsterdam:20230307T150000
+DTSTAMP:20230126T124815Z
+DTSTART;TZID=Europe/Amsterdam:20230307T160000
 DTEND;TZID=Europe/Amsterdam:20230307T170000
 STATUS:CONFIRMED
-SUMMARY:ADS AI Tech Week: Health
-DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nTuesday\, March 7 at 3:0
- 0 PM\n\nThe purpose of the AI Tech Week is to offer a stage to the Data 
- Science and AI ecosystem in Amsterdam. The content invites collaboration
-  between acade...\n\nhttps://www.meetup.com/amsterdam-data-science/event
- s/289544098/
+SUMMARY:ADS AI Tech Week: Business\, Finance and AI
+DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nTuesday\, March 7 at 4:0
+ 0 PM\n\nThe purpose of AI Tech Week is to offer a stage to the Data Scie
+ nce and AI ecosystem in Amsterdam. The content invites collaboration bet
+ ween academic\,...\n\nhttps://www.meetup.com/amsterdam-data-science/even
+ ts/289544098/
 CLASS:PUBLIC
 CREATED:20221104T141503Z
 GEO:52.36;4.88
 LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544098/
-LAST-MODIFIED:20221104T142421Z
+LAST-MODIFIED:20230126T115732Z
 UID:event_289544098@meetup.com
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
@@ -202,22 +110,22 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T124618Z
-DTSTART;TZID=Europe/Amsterdam:20230308T150000
-DTEND;TZID=Europe/Amsterdam:20230308T173000
+DTSTAMP:20230126T124815Z
+DTSTART;TZID=Europe/Amsterdam:20230308T160000
+DTEND;TZID=Europe/Amsterdam:20230308T170000
 STATUS:CONFIRMED
-SUMMARY:ADS AI Tech Week: Business
-DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nWednesday\, March 8 at 3
- :00 PM\n\nThe purpose of the AI Tech Week is to offer a stage to the Dat
- a Science and AI ecosystem in Amsterdam. The content invites collaborati
- on between acade...\n\nhttps://www.meetup.com/amsterdam-data-science/eve
- nts/289544174/
+SUMMARY:ADS AI Tech Week: Health and AI
+DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nWednesday\, March 8 at 4
+ :00 PM\n\nThe purpose of AI Tech Week is to offer a stage to the Data Sc
+ ience and AI ecosystem in Amsterdam. The content invites collaboration b
+ etween academic\,...\n\nhttps://www.meetup.com/amsterdam-data-science/ev
+ ents/289544174/
 CLASS:PUBLIC
 CREATED:20221104T142113Z
 GEO:52.36;4.88
 LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544174/
-LAST-MODIFIED:20221104T142504Z
+LAST-MODIFIED:20230126T120108Z
 UID:event_289544174@meetup.com
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
@@ -225,22 +133,22 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T124618Z
-DTSTART;TZID=Europe/Amsterdam:20230309T133000
-DTEND;TZID=Europe/Amsterdam:20230309T173000
+DTSTAMP:20230126T124815Z
+DTSTART;TZID=Europe/Amsterdam:20230309T160000
+DTEND;TZID=Europe/Amsterdam:20230309T170000
 STATUS:CONFIRMED
-SUMMARY:ADS AI Teck Week: Public
-DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nThursday\, March 9 at 1:
- 30 PM\n\nThe purpose of the AI Tech Week is to offer a stage to the Data
-  Science and AI ecosystem in Amsterdam. The content invites collaboratio
- n between acade...\n\nhttps://www.meetup.com/amsterdam-data-science/even
- ts/289544189/
+SUMMARY:ADS AI Teck Week: Public and AI
+DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nThursday\, March 9 at 4:
+ 00 PM\n\nThe purpose of AI Tech Week is to offer a stage to the Data Sci
+ ence and AI ecosystem in Amsterdam. The content invites collaboration be
+ tween academic\,...\n\nhttps://www.meetup.com/amsterdam-data-science/eve
+ nts/289544189/
 CLASS:PUBLIC
 CREATED:20221104T142242Z
 GEO:52.36;4.88
 LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544189/
-LAST-MODIFIED:20221104T142242Z
+LAST-MODIFIED:20230126T120148Z
 UID:event_289544189@meetup.com
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
@@ -248,7 +156,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T134619
+DTSTAMP:20230126T134820
 DTSTART;TZID=Europe/Amsterdam:20230322T080000
 DTEND;TZID=Europe/Amsterdam:20230622T210000
 STATUS:NA
@@ -267,7 +175,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T134619
+DTSTAMP:20230126T134820
 DTSTART;TZID=Europe/Amsterdam:20230327T080000
 DTEND;TZID=Europe/Amsterdam:20230331T170000
 STATUS:NA
@@ -286,7 +194,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T134619
+DTSTAMP:20230126T134820
 DTSTART;TZID=Europe/Amsterdam:20230418T080000
 DTEND;TZID=Europe/Amsterdam:20230704T210000
 STATUS:NA
@@ -305,7 +213,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230125T134619
+DTSTAMP:20230126T134820
 DTSTART;TZID=Europe/Amsterdam:20230425T000000
 DTEND;TZID=Europe/Amsterdam:20230425T235959
 STATUS:NA
