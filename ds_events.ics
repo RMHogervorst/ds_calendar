@@ -1,70 +1,5 @@
 BEGIN:VEVENT
-DTSTAMP:20230126T124814Z
-DTSTART;TZID=Europe/Amsterdam:20230126T160000
-DTEND;TZID=Europe/Amsterdam:20230126T180000
-STATUS:CONFIRMED
-SUMMARY:Leiden Data Science - Personal Health Data & Privacy
-DESCRIPTION:Leiden Data Science\nThursday\, January 26 at 4:00 PM\n\nLeid
- en Data Science is back in the new year! We are kicking off the meetup s
- eason on **Thursday the 26th of January\, from 16:00 to 17:00**. During 
- thi...\n\nhttps://www.meetup.com/leiden-data-science/events/282713969/
-CLASS:PUBLIC
-CREATED:20211216T122253Z
-GEO:52.16;4.48
-LOCATION:PLNT Leiden (Langegracht 70\, Leiden\, ZH\, Netherlands 2312 NV)
- 
-URL:https://www.meetup.com/leiden-data-science/events/282713969/
-LAST-MODIFIED:20230111T120649Z
-UID:event_282713969@meetup.com
-ATTACH;FMTTYPE=image/png:NA
-CATEGORIES:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230126T134820
-DTSTART;TZID=Europe/Amsterdam:20230126T160000
-DTEND;TZID=Europe/Amsterdam:20230126T190000
-STATUS:NA
-SUMMARY:Erasmus Thesis Awards: Impactful Data Analytics
-DESCRIPTION:Are you ready to write your thesis? Do you need some inspiration from former students from your very own master program\, or want to meet data-experts from the field?  \n\n\n\nOn the 26th of January\, we will host the Erasmus Thesis Awards: Impactful Data Analytics\, organized by MAEUR and Erasmus Centre of Data Analytics! During this award ceremony\, the top students from four data-oriented master programs will present their thesis to a team of judges which consists of data-experts from the field. The winning thesis will be rewarded with a cheque by the Erasmus Centre of Data Analytics (ECDA)!  \n\n\n\nWe believe that data and AI are changemakers to create social impact. Therefore\, we want to showcase the EUR talent in data analytics and AI\, to inspire the new generation of thesis writing students\, showcase what the possibilities are for their own thesis\, and for career journeys afterwards. \n\n\n\nThe nominated theses that will be presented come from the following master programs:  \n\n\n\n\nBusiness Information Management (RSM)\n\n\n\nBusiness Analytics Management (RSM)\n\n\n\nData Science and Marketing Analytics (ESE)\n\n\n\nEconometrics (ESE) \n\n\n\n\nThe judges\, which are data-experts from various companies\, will be present during the networking drinks afterwards. Next to getting some inspiration for your thesis\, this will also give you the opportunity to meet your potential future employer. 
-CLASS:NA
-CREATED:20221221T134711Z
-GEO:NA
-LOCATION:NA
-URL:https://ecda.eur.nl/event/erasmus-thesis-awards-impactful-data-analytics/
-LAST-MODIFIED:20221221T135542Z
-UID:13698-1674748800-1674759600@ecda.eur.nl
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Instagram-post.png
-CATEGORIES:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230126T124816Z
-DTSTART;TZID=Europe/Amsterdam:20230126T173000
-DTEND;TZID=Europe/Amsterdam:20230126T203000
-STATUS:CONFIRMED
-SUMMARY:Fighting money laundering with MLOps\, graph analytics & unsuperv
- ised learning
-DESCRIPTION:Data & Drinks\nThursday\, January 26 at 5:30 PM\n\nJoin Janua
- ry's Data & Drinks for an interactive discussion about how Transactie Mo
- nitoring Nederland (TMNL)\, an alliance of five of the biggest banks ...
- \n\nhttps://www.meetup.com/data-drinks/events/289480605/
-CLASS:PUBLIC
-CREATED:20221101T204423Z
-GEO:52.36;4.88
-LOCATION:Xomnia (Raamstraat 7\, Amsterdam\, NH\, Netherlands 1016 XL)
-URL:https://www.meetup.com/data-drinks/events/289480605/
-LAST-MODIFIED:20230125T122120Z
-UID:event_289480605@meetup.com
-ATTACH;FMTTYPE=image/png:NA
-CATEGORIES:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230126T124814Z
+DTSTAMP:20230127T124417Z
 DTSTART;TZID=Europe/Amsterdam:20230131T180000
 DTEND;TZID=Europe/Amsterdam:20230131T190000
 STATUS:CONFIRMED
@@ -81,13 +16,34 @@ LOCATION:Online event
 URL:https://www.meetup.com/amsterdam-data-science-odsc/events/290557720/
 LAST-MODIFIED:20230111T175226Z
 UID:event_290557720@meetup.com
-ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T124815Z
+DTSTAMP:20230127T124419Z
+DTSTART;TZID=Europe/Amsterdam:20230202T193000
+DTEND;TZID=Europe/Amsterdam:20230202T213000
+STATUS:CONFIRMED
+SUMMARY:ChatGPT how does it work?
+DESCRIPTION:Explore Artificial Intelligence The Hague\nThursday\, Februar
+CLASS:PUBLIC
+CREATED:20230127T120942Z
+GEO:52.08;4.28
+LOCATION:Lulofsstraat 55 (Lulofsstraat 55\, Den Haag\, ZH\, Netherlands 2
+ 521 AL)
+URL:https://www.meetup.com/explore-artificial-intelligence-the-hague/even
+ ts/291225930/
+LAST-MODIFIED:20230127T123357Z
+UID:event_291225930@meetup.com
+CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T124418Z
 DTSTART;TZID=Europe/Amsterdam:20230307T160000
 DTEND;TZID=Europe/Amsterdam:20230307T170000
 STATUS:CONFIRMED
@@ -104,13 +60,13 @@ LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544098/
 LAST-MODIFIED:20230126T115732Z
 UID:event_289544098@meetup.com
-ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T124815Z
+DTSTAMP:20230127T124418Z
 DTSTART;TZID=Europe/Amsterdam:20230308T160000
 DTEND;TZID=Europe/Amsterdam:20230308T170000
 STATUS:CONFIRMED
@@ -127,13 +83,13 @@ LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544174/
 LAST-MODIFIED:20230126T120108Z
 UID:event_289544174@meetup.com
-ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T124815Z
+DTSTAMP:20230127T124418Z
 DTSTART;TZID=Europe/Amsterdam:20230309T160000
 DTEND;TZID=Europe/Amsterdam:20230309T170000
 STATUS:CONFIRMED
@@ -150,13 +106,13 @@ LOCATION:NA
 URL:https://www.meetup.com/amsterdam-data-science/events/289544189/
 LAST-MODIFIED:20230126T120148Z
 UID:event_289544189@meetup.com
-ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T134820
+DTSTAMP:20230127T134423
 DTSTART;TZID=Europe/Amsterdam:20230322T080000
 DTEND;TZID=Europe/Amsterdam:20230622T210000
 STATUS:NA
@@ -169,13 +125,13 @@ LOCATION:Hybrid
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-september-2022-edition/
 LAST-MODIFIED:20221222T105245Z
 UID:12799-1679472000-1687467600@ecda.eur.nl
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114422.png
 CATEGORIES:Leadership Challenges with Data Analytics
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114422.png
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T134820
+DTSTAMP:20230127T134423
 DTSTART;TZID=Europe/Amsterdam:20230327T080000
 DTEND;TZID=Europe/Amsterdam:20230331T170000
 STATUS:NA
@@ -188,13 +144,13 @@ LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, So
 URL:https://ecda.eur.nl/event/urban-innovation-executive-leadership-programme/
 LAST-MODIFIED:20221107T172005Z
 UID:12562-1679904000-1680282000@ecda.eur.nl
-ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:Urban Innovation Executive Leadership Programme
+ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T134820
+DTSTAMP:20230127T134423
 DTSTART;TZID=Europe/Amsterdam:20230418T080000
 DTEND;TZID=Europe/Amsterdam:20230704T210000
 STATUS:NA
@@ -207,13 +163,13 @@ LOCATION:Hybrid
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-education-track-spring-2023-edition/
 LAST-MODIFIED:20230106T115547Z
 UID:13716-1681804800-1688504400@ecda.eur.nl
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 CATEGORIES:Leadership Challenges with Data Analytics
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T134820
+DTSTAMP:20230127T134423
 DTSTART;TZID=Europe/Amsterdam:20230425T000000
 DTEND;TZID=Europe/Amsterdam:20230425T235959
 STATUS:NA
@@ -226,8 +182,8 @@ LOCATION:NA
 URL:https://ecda.eur.nl/event/erasmus-data-summit-2/
 LAST-MODIFIED:20221222T103651Z
 UID:13426-1682380800-1682467199@ecda.eur.nl
-ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/10/CAP_0947-scaled.jpg
 END:VEVENT
