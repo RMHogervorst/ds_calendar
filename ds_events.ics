@@ -1,28 +1,5 @@
 BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
-DTSTART;TZID=Europe/Amsterdam:20230228T180000
-DTEND;TZID=Europe/Amsterdam:20230228T190000
-STATUS:CONFIRMED
-SUMMARY:Webinar: "Architectures for Running ML at the Edge"
-DESCRIPTION:ODSC Amsterdam Data Science\nTuesday\, February 28 at 6:00 PM
- \n\n**To access this webinar\, please register here:** (https://hubs.li/
- Q01yvkn10" class="linkified">https://hubs.li/Q01yvkn10](https://hubs.li/
- Q01yvkn10) ...\n\nhttps://www.meetup.com/amsterdam-data-science-odsc/eve
- nts/291664003/
-CLASS:PUBLIC
-CREATED:20230216T173200Z
-GEO:52.36;4.88
-LOCATION:Online event
-URL:https://www.meetup.com/amsterdam-data-science-odsc/events/291664003/
-LAST-MODIFIED:20230216T173200Z
-UID:event_291664003@meetup.com
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124844Z
 DTSTART;TZID=Europe/Amsterdam:20230307T160000
 DTEND;TZID=Europe/Amsterdam:20230307T170000
 STATUS:CONFIRMED
@@ -40,12 +17,12 @@ URL:https://www.meetup.com/amsterdam-data-science/events/289544098/
 LAST-MODIFIED:20230224T121737Z
 UID:event_289544098@meetup.com
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124844Z
 DTSTART;TZID=Europe/Amsterdam:20230308T160000
 DTEND;TZID=Europe/Amsterdam:20230308T170000
 STATUS:CONFIRMED
@@ -61,15 +38,15 @@ GEO:52.36;4.88
 LOCATION:NU building Vrije Universiteit Amsterdam (De Boelelaan 1111\, Am
  sterdam\, NH\, Netherlands 1081 HV)
 URL:https://www.meetup.com/amsterdam-data-science/events/289544174/
-LAST-MODIFIED:20230227T122934Z
+LAST-MODIFIED:20230228T155551Z
 UID:event_289544174@meetup.com
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124844Z
 DTSTART;TZID=Europe/Amsterdam:20230308T180000
 DTEND;TZID=Europe/Amsterdam:20230308T190000
 STATUS:CONFIRMED
@@ -88,12 +65,12 @@ URL:https://www.meetup.com/amsterdam-data-science-odsc/events/291774742/
 LAST-MODIFIED:20230221T191240Z
 UID:event_291774742@meetup.com
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124844Z
 DTSTART;TZID=Europe/Amsterdam:20230309T120000
 DTEND;TZID=Europe/Amsterdam:20230309T130000
 STATUS:CONFIRMED
@@ -111,12 +88,12 @@ URL:https://www.meetup.com/real-data-science-meetup/events/291928527/
 LAST-MODIFIED:20230228T100528Z
 UID:event_291928527@meetup.com
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124844Z
 DTSTART;TZID=Europe/Amsterdam:20230309T153000
 DTEND;TZID=Europe/Amsterdam:20230309T163000
 STATUS:CONFIRMED
@@ -135,12 +112,12 @@ URL:https://www.meetup.com/amsterdam-data-science/events/289544189/
 LAST-MODIFIED:20230224T121852Z
 UID:event_289544189@meetup.com
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124844Z
 DTSTART;TZID=Europe/Amsterdam:20230309T173000
 DTEND;TZID=Europe/Amsterdam:20230309T193000
 STATUS:CONFIRMED
@@ -161,12 +138,12 @@ URL:https://www.meetup.com/amsterdam-ai-developers-group/events/291352528
 LAST-MODIFIED:20230202T044521Z
 UID:event_291352528@meetup.com
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124845Z
 DTSTART;TZID=Europe/Amsterdam:20230321T170000
 DTEND;TZID=Europe/Amsterdam:20230321T190000
 STATUS:CONFIRMED
@@ -186,35 +163,17 @@ URL:https://www.meetup.com/amsterdam-medical-data-science/events/29168234
 LAST-MODIFIED:20230227T055342Z
 UID:event_291682342@meetup.com
 CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T134815
-DTSTART;TZID=Europe/Amsterdam:20230327T080000
-DTEND;TZID=Europe/Amsterdam:20230331T170000
-STATUS:NA
-SUMMARY:Urban Innovation Executive Leadership Programme
-DESCRIPTION:The Urban Innovation Executive Leadership Program provides an in-depth\, multidisciplinary orientation on the topic of Smart & Resilient Communities. It frames the future of our cities within the context of the 4th Industrial Revolution. It introduces the building blocks for successful digitalization and innovation strategies for communities\, cities and regions including innovation centric leadership\, agile governance\, cyber resilience\, innovation for scale\, citizen engagement\, digital inclusion\, agile regulations\, ethical frameworks\, digital fundamental and emerging technologies. \n\n\n\nLearning objectives\n\n\n\nAfter this programme\, you will be able to: \n\n\n\n\nUnderstand and apply the critical building blocks of a comprehensive digitalization strategy for a city or community to include agile governance\, ethics\, digital fundamentals and inclusion + design approaches\n\n\n\nProvide holistic\, multidisciplinary perspectives on urban (data driven) innovation\n\n\n\nFacilitate cross-department team building and alignment\n\n\n\nOptimize learning & organizational impact through hands-on / applied approaches\n\n\n\n\nFinally\, participants will be provided a comprehensive framework in response to the question: how to prepare for and facilitate resilient\, inclusive\, successful cities within the context of digitalization and the 4th Industrial Revolution?
-CLASS:NA
-CREATED:20220114T131234Z
-GEO:NA
-LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
-URL:https://ecda.eur.nl/event/urban-innovation-executive-leadership-programme/
-LAST-MODIFIED:20221107T172005Z
-UID:12562-1679904000-1680282000@ecda.eur.nl
-CATEGORIES:Urban Innovation Executive Leadership Programme
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124845Z
 DTSTART;TZID=Europe/Amsterdam:20230330T173000
 DTEND;TZID=Europe/Amsterdam:20230330T203000
 STATUS:CONFIRMED
-SUMMARY:Data & Drinks: Data Engineering in the Automotive Industry
+SUMMARY:Data & Drinks: How is data driving the automotive industry forwar
+ d?
 DESCRIPTION:Data & Drinks\nThursday\, March 30 at 5:30 PM\n\nMarch's Data
   & Dinks event is taking place on **Thursday March 30th at 17:30** **at 
  Xomnia's HQ\,** and will focus on data engineering in the automotiv...\n
@@ -224,15 +183,15 @@ CREATED:20230131T160657Z
 GEO:52.36;4.88
 LOCATION:Xomnia (Raamstraat 7\, Amsterdam\, NH\, Netherlands 1016 XL)
 URL:https://www.meetup.com/data-drinks/events/291312436/
-LAST-MODIFIED:20230221T091415Z
+LAST-MODIFIED:20230228T153810Z
 UID:event_291312436@meetup.com
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T124813Z
+DTSTAMP:20230301T124844Z
 DTSTART;TZID=Europe/Amsterdam:20230413T140000
 DTEND;TZID=Europe/Amsterdam:20230413T173000
 STATUS:CONFIRMED
@@ -250,12 +209,12 @@ URL:https://www.meetup.com/amsterdam-data-science/events/291485384/
 LAST-MODIFIED:20230217T104102Z
 UID:event_291485384@meetup.com
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T134815
+DTSTAMP:20230301T134846
 DTSTART;TZID=Europe/Amsterdam:20230418T080000
 DTEND;TZID=Europe/Amsterdam:20230704T210000
 STATUS:NA
@@ -269,12 +228,12 @@ URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-educ
 LAST-MODIFIED:20230106T115547Z
 UID:13716-1681804800-1688504400@ecda.eur.nl
 CATEGORIES:Leadership Challenges with Data Analytics
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T134815
+DTSTAMP:20230301T134846
 DTSTART;TZID=Europe/Amsterdam:20230425T000000
 DTEND;TZID=Europe/Amsterdam:20230425T235959
 STATUS:NA
@@ -288,12 +247,31 @@ URL:https://ecda.eur.nl/event/erasmus-data-summit-2/
 LAST-MODIFIED:20221222T103651Z
 UID:13426-1682380800-1682467199@ecda.eur.nl
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/10/CAP_0947-scaled.jpg
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/10/CAP_0947-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230228T134815
+DTSTAMP:20230301T134846
+DTSTART;TZID=Europe/Amsterdam:20230918T080000
+DTEND;TZID=Europe/Amsterdam:20230922T200000
+STATUS:NA
+SUMMARY:Urban Innovation Executive Leadership Programme
+DESCRIPTION:The Urban Innovation Executive Leadership Program provides an in-depth\, multidisciplinary orientation on the topic of Smart & Resilient Communities. It frames the future of our cities within the context of the 4th Industrial Revolution. It introduces the building blocks for successful digitalization and innovation strategies for communities\, cities and regions including innovation centric leadership\, agile governance\, cyber resilience\, innovation for scale\, citizen engagement\, digital inclusion\, agile regulations\, ethical frameworks\, digital fundamental and emerging technologies. \n\n\n\nLearning objectives\n\n\n\nAfter this programme\, you will be able to: \n\n\n\n\nUnderstand and apply the critical building blocks of a comprehensive digitalization strategy for a city or community to include agile governance\, ethics\, digital fundamentals and inclusion + design approaches\n\n\n\nProvide holistic\, multidisciplinary perspectives on urban (data driven) innovation\n\n\n\nFacilitate cross-department team building and alignment\n\n\n\nOptimize learning & organizational impact through hands-on / applied approaches\n\n\n\n\nFinally\, participants will be provided a comprehensive framework in response to the question: how to prepare for and facilitate resilient\, inclusive\, successful cities within the context of digitalization and the 4th Industrial Revolution?
+CLASS:NA
+CREATED:20220114T131234Z
+GEO:NA
+LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
+URL:https://ecda.eur.nl/event/urban-innovation-executive-leadership-programme/
+LAST-MODIFIED:20230228T143922Z
+UID:12562-1695024000-1695412800@ecda.eur.nl
+CATEGORIES:Urban Innovation Executive Leadership Programme
+ATTACH;FMTTYPE=image/png:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230301T134846
 DTSTART;TZID=Europe/Amsterdam:20230926T210000
 DTEND;TZID=Europe/Amsterdam:20231212T220000
 STATUS:NA
@@ -307,8 +285,8 @@ URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-sept
 LAST-MODIFIED:20230212T014916Z
 UID:12799-1695762000-1702418400@ecda.eur.nl
 CATEGORIES:Leadership Challenges with Data Analytics
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 END:VCALENDAR
