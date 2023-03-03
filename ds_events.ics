@@ -1,5 +1,5 @@
 BEGIN:VEVENT
-DTSTAMP:20230302T124707Z
+DTSTAMP:20230303T124603Z
 DTSTART;TZID=Europe/Amsterdam:20230307T160000
 DTEND;TZID=Europe/Amsterdam:20230307T170000
 STATUS:CONFIRMED
@@ -22,7 +22,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T124707Z
+DTSTAMP:20230303T124603Z
 DTSTART;TZID=Europe/Amsterdam:20230308T160000
 DTEND;TZID=Europe/Amsterdam:20230308T170000
 STATUS:CONFIRMED
@@ -46,7 +46,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T124707Z
+DTSTAMP:20230303T124602Z
 DTSTART;TZID=Europe/Amsterdam:20230308T180000
 DTEND;TZID=Europe/Amsterdam:20230308T190000
 STATUS:CONFIRMED
@@ -70,7 +70,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T124706Z
+DTSTAMP:20230303T124601Z
 DTSTART;TZID=Europe/Amsterdam:20230309T120000
 DTEND;TZID=Europe/Amsterdam:20230309T130000
 STATUS:CONFIRMED
@@ -93,7 +93,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T124707Z
+DTSTAMP:20230303T124603Z
 DTSTART;TZID=Europe/Amsterdam:20230309T153000
 DTEND;TZID=Europe/Amsterdam:20230309T163000
 STATUS:CONFIRMED
@@ -117,7 +117,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T124706Z
+DTSTAMP:20230303T124601Z
 DTSTART;TZID=Europe/Amsterdam:20230309T173000
 DTEND;TZID=Europe/Amsterdam:20230309T193000
 STATUS:CONFIRMED
@@ -143,7 +143,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T124707Z
+DTSTAMP:20230303T124604Z
 DTSTART;TZID=Europe/Amsterdam:20230321T170000
 DTEND;TZID=Europe/Amsterdam:20230321T190000
 STATUS:CONFIRMED
@@ -168,22 +168,22 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T124707Z
+DTSTAMP:20230303T124603Z
 DTSTART;TZID=Europe/Amsterdam:20230330T173000
 DTEND;TZID=Europe/Amsterdam:20230330T203000
 STATUS:CONFIRMED
 SUMMARY:Data & Drinks: How is data driving the automotive industry forwar
  d?
-DESCRIPTION:Data & Drinks\nThursday\, March 30 at 5:30 PM\n\nMarch's Data
-  & Dinks event is taking place on **Thursday March 30th at 17:30** **at 
- Xomnia's HQ\,** and will focus on data engineering in the automotiv...\n
+DESCRIPTION:Data & Drinks\nThursday\, March 30 at 5:30 PM\n\nOur next Dat
+ a & Dinks event is taking place on **Thursday\, March 30th at 17:30 at X
+ omnia's HQ**. It will focus on the roles of data engineering and da...\n
  \nhttps://www.meetup.com/data-drinks/events/291312436/
 CLASS:PUBLIC
 CREATED:20230131T160657Z
 GEO:52.36;4.88
 LOCATION:Xomnia (Raamstraat 7\, Amsterdam\, NH\, Netherlands 1016 XL)
 URL:https://www.meetup.com/data-drinks/events/291312436/
-LAST-MODIFIED:20230302T105852Z
+LAST-MODIFIED:20230303T084829Z
 UID:event_291312436@meetup.com
 CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
@@ -191,7 +191,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T124707Z
+DTSTAMP:20230303T124603Z
 DTSTART;TZID=Europe/Amsterdam:20230413T140000
 DTEND;TZID=Europe/Amsterdam:20230413T173000
 STATUS:CONFIRMED
@@ -214,7 +214,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T134708
+DTSTAMP:20230303T134607
 DTSTART;TZID=Europe/Amsterdam:20230418T080000
 DTEND;TZID=Europe/Amsterdam:20230704T210000
 STATUS:NA
@@ -233,26 +233,26 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T134708
-DTSTART;TZID=Europe/Amsterdam:20230425T000000
-DTEND;TZID=Europe/Amsterdam:20230425T235959
+DTSTAMP:20230303T134607
+DTSTART;TZID=Europe/Amsterdam:20230425T133000
+DTEND;TZID=Europe/Amsterdam:20230425T180000
 STATUS:NA
-SUMMARY:Erasmus Data Summit
-DESCRIPTION:
+SUMMARY:Erasmus Data Summit - Generative AI and Immersive Technology
+DESCRIPTION:Join us Tuesday\, April 25 from 13:30-18:00hrs at the Erasmus Pavilion in Rotterdam. \n\n\n\nThrough inspiring Talks and lively Fireside Chats we aim to create a comprehensive understanding of the current landscape of Generative AI and Immersive Technology. \n\n\n\nTopics will cover the impact on the future of education\, work\, art\, and health with relevant examples from leading experts in the field. \n\n\n\n Gain hands-on experience at the Immersive Tech Fair. \n\n\n\nKeywords: \n\n\n\n\nGame changing speakers | Visual Experiences \n\n\n\nGenerative AI | Human side of AI\n\n\n\nImmersive Technology \n\n\n\nInnovative Start-ups\n\n\n\nInspiring Academics\n\n\n\nEstablished Practitioners\n\n\n\nTalented Students\n\n\n\nVR\, AR\, XR Gamification\, the Metaverse\, Haptics \n\n\n\nImmersive Tech Fair
 CLASS:NA
 CREATED:20220930T221212Z
 GEO:NA
-LOCATION:NA
-URL:https://ecda.eur.nl/event/erasmus-data-summit-2/
-LAST-MODIFIED:20221222T103651Z
-UID:13426-1682380800-1682467199@ecda.eur.nl
+LOCATION:Theatre Erasmus Paviljoen\, Burgemeester Oudlaan 350\, Rotterdam\, 3062PA\, Netherlands
+URL:https://ecda.eur.nl/event/erasmus-data-summit-2023/
+LAST-MODIFIED:20230302T202134Z
+UID:13426-1682429400-1682445600@ecda.eur.nl
 CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/10/CAP_0947-scaled.jpg
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:looijmans@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/10/Web-Erasmus-Data-Analytics-Summit-2019-079-e1677764062402.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T134708
+DTSTAMP:20230303T134607
 DTSTART;TZID=Europe/Amsterdam:20230918T080000
 DTEND;TZID=Europe/Amsterdam:20230922T200000
 STATUS:NA
@@ -271,7 +271,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230302T134708
+DTSTAMP:20230303T134607
 DTSTART;TZID=Europe/Amsterdam:20230926T210000
 DTEND;TZID=Europe/Amsterdam:20231212T220000
 STATUS:NA
