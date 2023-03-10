@@ -1,55 +1,5 @@
 BEGIN:VEVENT
-DTSTAMP:20230309T124933Z
-DTSTART;TZID=Europe/Amsterdam:20230309T153000
-DTEND;TZID=Europe/Amsterdam:20230309T163000
-STATUS:CONFIRMED
-SUMMARY:ADS AI Teck Week: Public and AI
-DESCRIPTION:Amsterdam Data Science (ADS) Meetup\nThursday\, March 9 at 3:
- 30 PM\n\nThe purpose of AI Tech Week is to offer a stage to the Data Sci
- ence and AI ecosystem in Amsterdam. The content invites collaboration be
- tween academic\,...\n\nhttps://www.meetup.com/amsterdam-data-science/eve
- nts/289544189/
-CLASS:PUBLIC
-CREATED:20221104T142242Z
-GEO:52.36;4.88
-LOCATION:UvA Science (Science Park 904\, Amsterdam\, NH\, Netherlands 109
- 8 XH)
-URL:https://www.meetup.com/amsterdam-data-science/events/289544189/
-LAST-MODIFIED:20230308T095455Z
-UID:event_289544189@meetup.com
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230309T124932Z
-DTSTART;TZID=Europe/Amsterdam:20230309T173000
-DTEND;TZID=Europe/Amsterdam:20230309T193000
-STATUS:CONFIRMED
-SUMMARY:In-person meetup: Leverage SaaS & Cloud Buying to Drive Competiti
- ve Advantage
-DESCRIPTION:Amsterdam AI Developers Group\nThursday\, March 9 at 5:30 PM\
- n\nThe venue capacity is limited\, register on the event website for adm
- ission: (http://bit.ly/3YjjSQq" class="linkified">http://bit.ly/3YjjSQq]
- (http://bi...\n\nhttps://www.meetup.com/amsterdam-ai-developers-group/ev
- ents/291352528/
-CLASS:PUBLIC
-CREATED:20230202T044521Z
-GEO:52.36;4.88
-LOCATION:The Hoxton\, Amsterdam (Herengracht 255\, Amsterdam\, NH\, Nethe
- rlands 1016 BJ)
-URL:https://www.meetup.com/amsterdam-ai-developers-group/events/291352528
- /
-LAST-MODIFIED:20230202T044521Z
-UID:event_291352528@meetup.com
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230309T124932Z
+DTSTAMP:20230310T124809Z
 DTSTART;TZID=Europe/Amsterdam:20230316T180000
 DTEND;TZID=Europe/Amsterdam:20230316T190000
 STATUS:CONFIRMED
@@ -73,7 +23,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T124934Z
+DTSTAMP:20230310T124810Z
 DTSTART;TZID=Europe/Amsterdam:20230321T170000
 DTEND;TZID=Europe/Amsterdam:20230321T190000
 STATUS:CONFIRMED
@@ -98,7 +48,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T124933Z
+DTSTAMP:20230310T124810Z
 DTSTART;TZID=Europe/Amsterdam:20230330T173000
 DTEND;TZID=Europe/Amsterdam:20230330T203000
 STATUS:CONFIRMED
@@ -121,7 +71,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T124933Z
+DTSTAMP:20230310T124809Z
 DTSTART;TZID=Europe/Amsterdam:20230413T140000
 DTEND;TZID=Europe/Amsterdam:20230413T173000
 STATUS:CONFIRMED
@@ -144,21 +94,21 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T124933Z
+DTSTAMP:20230310T124810Z
 DTSTART;TZID=Europe/Amsterdam:20230413T173000
 DTEND;TZID=Europe/Amsterdam:20230413T203000
 STATUS:CONFIRMED
 SUMMARY:Data & Drinks meets Amsterdam Applied Machine Learning 
-DESCRIPTION:Data & Drinks\nThursday\, April 13 at 5:30 PM\n\nJoin us for 
- a special edition of our monthly event\, which we are proud to co-host w
- ith (https://www.linkedin.com/in/gijsmolenaar/) Meetup\,(https://www...\
+DESCRIPTION:Data & Drinks\nThursday\, April 13 at 5:30 PM\n\nYou're invit
+ ed to a special edition of our monthly event\, which we are proud to co-
+ host with (https://www.linkedin.com/in/gijsmolenaar/) Meetup\,(https...\
  n\nhttps://www.meetup.com/data-drinks/events/292108501/
 CLASS:PUBLIC
 CREATED:20230308T142333Z
 GEO:52.36;4.88
 LOCATION:Xomnia (Raamstraat 7\, Amsterdam\, NH\, Netherlands 1016 XL)
 URL:https://www.meetup.com/data-drinks/events/292108501/
-LAST-MODIFIED:20230309T104616Z
+LAST-MODIFIED:20230310T093654Z
 UID:event_292108501@meetup.com
 CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
@@ -166,7 +116,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T134936
+DTSTAMP:20230310T134814
 DTSTART;TZID=Europe/Amsterdam:20230418T080000
 DTEND;TZID=Europe/Amsterdam:20230704T210000
 STATUS:NA
@@ -185,7 +135,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T134936
+DTSTAMP:20230310T134814
 DTSTART;TZID=Europe/Amsterdam:20230425T133000
 DTEND;TZID=Europe/Amsterdam:20230425T180000
 STATUS:NA
@@ -204,7 +154,30 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:looijmans@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/10/Web-Erasmus-Data-Analytics-Summit-2019-079-e1677764062402.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T134936
+DTSTAMP:20230310T124809Z
+DTSTART;TZID=Europe/Amsterdam:20230614T100000
+DTEND;TZID=Europe/Amsterdam:20230615T180000
+STATUS:CONFIRMED
+SUMMARY:ODSC Europe 2023 | Data Science Conference
+DESCRIPTION:ODSC Amsterdam Data Science\nWednesday\, June 14 at 10:00 AM\
+ n\nThis is PAID event.More info you may find here - **(https://hubs.li/Q
+ 01t57Dd0" class="linkified">https://hubs.li/Q01t57Dd0](https://hubs.li/Q
+ 01t57Dd0)...\n\nhttps://www.meetup.com/amsterdam-data-science-odsc/event
+ s/292135916/
+CLASS:PUBLIC
+CREATED:20230309T191501Z
+GEO:52.36;4.88
+LOCATION:Online event
+URL:https://www.meetup.com/amsterdam-data-science-odsc/events/292135916/
+LAST-MODIFIED:20230309T191501Z
+UID:event_292135916@meetup.com
+CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230310T134814
 DTSTART;TZID=Europe/Amsterdam:20230918T080000
 DTEND;TZID=Europe/Amsterdam:20230922T200000
 STATUS:NA
@@ -223,7 +196,7 @@ ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T134936
+DTSTAMP:20230310T134814
 DTSTART;TZID=Europe/Amsterdam:20230926T210000
 DTEND;TZID=Europe/Amsterdam:20231212T220000
 STATUS:NA
