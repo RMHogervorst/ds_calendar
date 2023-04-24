@@ -15,7 +15,7 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: install dependencies  
-      run: apt-get install -y libcurl4-openssl-dev
+      run: sudo apt-get install -y libcurl4-openssl-dev
     - uses: r-lib/actions/setup-r@v2
       with:
         use-public-rspm: true
