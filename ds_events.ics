@@ -1,55 +1,75 @@
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20230511T000000
+DTEND;TZID=Europe/Amsterdam:20230511T235959
+DTSTAMP:20230430T143728
+CREATED:20230429T150826Z
+LAST-MODIFIED:20230429T150939Z
+UID:14419-1683763200-1683849599@ecda.eur.nl
+SUMMARY:Smart Campus @ Sustainability Days
+DESCRIPTION:ECDA & the Sustainability Hub are collaborating during the Sustainability Days of 2023! \n\n\n\n On May 11\, we invite all campus users\, both employees and students\, to help us use data to make the campus more sustainable.  \n\n\n\nWe’ll give you an insight into the current state of the campus\, and the goals it wishes to achieve. After that\, we want you to come up with the best data-driven solutions to make the campus a better place. The best idea will be piloted on campus!
+URL:https://ecda.eur.nl/event/smart-campus-sustainability-days/
+LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
+ATTACH;FMTTYPE=image/webp:https://ecda.eur.nl/wp-content/uploads/2023/04/Sustainability-Days-2023.webp
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
+ATTACH;FMTTYPE=image/png:NA
+CATEGORIES:NA
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20230511T093000
 DTEND;TZID=Europe/Amsterdam:20230511T123000
-DTSTAMP:20230429T143725
+DTSTAMP:20230430T143728
 CREATED:20230428T164538Z
-LAST-MODIFIED:20230428T165430Z
+LAST-MODIFIED:20230429T150322Z
 UID:14374-1683797400-1683808200@ecda.eur.nl
 SUMMARY:AI@EUR: Ethics & Data Ethics
 DESCRIPTION:On May 11\, Annelien Bredenoord\, Rector Magnificus of the Erasmus University Rotterdam\, will kick off the AI@EUR program during the Ethics & Data Ethics event. \n\n\n\nThe AI@EUR program aims to connect all researchers and staff that work with artificial intelligence (AI) at the EUR\, creating more insight and awareness on all the AI-related activities on campus. Furthermore\, the program’s purpose is to stimulate a dialogue around ethical and trustworthy AI\, what it means for the Erasmus University Rotterdam\, and inform all stakeholders involved\, about the legislation on data & AI coming from for example the EU. \n\n\n\nBecause of the importance of these topics the first AI@EUR event: Ethics & Data Ethics\, will focus on the risks and potential of recent AI developments on our ethical thinking\, considerations\, (daily) practices and dilemmas. Three experts Prof.dr. Muel Kaptein (RSM)\, Joris Krijger (Volksbank) and Prof.dr. Hub Zwart (ESPhil) will discuss AI from a human perspective\, what moral conundrums are created by AI\, and will give us a glimpse into the possible future developments and requirements these fast-paced developments pose on individuals\, organizations and legislation. \n\n\n\nThe AI@EUR Ethics &Data Ethics event is the first of a series of events for which EUR faculty and staff are invited to reflect on challenges\, opportunities and restrictions\, with regards to the development and application of algorithms\, from an Erasmus Values point of view. What are the choices we make\, what is our signature in terms of accountability\, with regards to our work and the way we use algorithms? What is the responsible Erasmian AI culture? \n\n\n\nDuring the various sessions in 2023 we capture the lessons learned and insights from cutting edge research. Please feel welcome to engage!
 URL:https://ecda.eur.nl/event/aieur-ethics-data-ethics/
 LOCATION:Polak Building\, Room Y01.08\, Burgemeester Oudlaan 50\, Rotterdam\, Zuid Holland\, 3062 PA\, Netherlands
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/04/image-1.jpg
+ATTACH;FMTTYPE=image/webp:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/04/LinkedIn-aiEUR-kickoff_page-0001.jpg
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20230525T164500
 DTEND;TZID=Europe/Amsterdam:20230525T193000
-DTSTAMP:20230429T143725
+DTSTAMP:20230430T143728
 CREATED:20230428T162107Z
-LAST-MODIFIED:20230428T164102Z
+LAST-MODIFIED:20230429T150312Z
 UID:14357-1685033100-1685043000@ecda.eur.nl
 SUMMARY:AI Masterclass: Van Ethische AI naar Beleid
 DESCRIPTION:Masterclass: Ethiek & AI op 25 mei van 16:45-19:30uur. \n\n\n\nOnderwerp van de masterclass \n\n\n\nAI brengt naast heel veel voordelen ook potentiële risico’s met zich mee. Het gebruik van AI kan onder andere leiden tot discriminatie\, een gebrek aan menselijke controle en andere sociaal onwenselijke uitkomsten. Dit soort ethische risico’s moeten vooraf helder zijn en ondervangen worden. Ook moeten de juiste ethische vragen gesteld worden die ons helpen de juiste kaders te stellen. \n\n\n\nIn deze masterclass krijg je de volgende inzichten en handvaten: \n\n\n\n\n● Welke ethische principes moeten leidend zijn bij de ontwikkeling en het gebruik van AI?\n\n\n\n● Wat zijn de potentiële maatschappelijke effecten van AI en hoe kunnen we negatieve effecten beperken?\n\n\n\n● Hoe kunnen we ervoor zorgen dat AI-systemen transparant en controleerbaar zijn?\n\n\n\n● Hoe kunnen we ervoor zorgen dat AI wordt gebruikt op een manier die in overeenstemming is met mensenrechten en ethische normen?\n\n\n\n● Hoe kunnen we het publieke bewustzijn en ons begrip van AI en de ethische implicaties ervan vergroten?\n\n\n\n\nSprekers \n\n\n					\n											\n								\n												\n							\n				\n					\n					\n					\n				\n				\n											\n								\n						\n						\n							\n				\n					\n					\n					\n				\n				\n											\n								\n						\n											\n							\n											\n									\n\n\nDirect inschrijven kan via de volgende link. \n\n\n\n\nProgramma masterclass \n\n\n\n16.45 – 17.00 Inloop met koffie/thee \n\n\n\n17.00 – 17.05  Introductie en welkom \n\n\n\n17.05 – 17.50  Masterclass presentatie over Ethiek en AI \n\n\n\n17.50 – 18.05  Pauze met versnapering \n\n\n\n18.05 – 18.55  Interactieve discussie en workshop \n\n\n\n18.55 – 19.00  Wrap-up en afsluiting \n\n\n\n19.00 – 19.30  Borrel \n\n\n\n\nAchtergrond \n\n\n\nDit programma wordt georganiseerd door het AI\, data en digitalisatie domein van de convergentie van universiteiten (Erasmus MC\, Erasmus Universiteit Rotterdam\, TU Delft en Universiteit Leiden) en door Erasmus Centre for Data Analytics\, centrum voor data\, digitalisering en AI aan de Erasmus Universiteit Rotterdam. Het programma vindt plaats in de Erasmus Data Collaboratory in het Polak gebouw op de EUR-campus.
 URL:https://ecda.eur.nl/event/ai-masterclass-van-ethische-ai-naar-beleid/
 LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
-ATTACH;FMTTYPE=image/jpeg:NA
+ATTACH;FMTTYPE=image/webp:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/04/1.png
 CATEGORIES:NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20230601T150000
 DTEND;TZID=Europe/Amsterdam:20230601T180000
-DTSTAMP:20230429T143725
+DTSTAMP:20230430T143728
 CREATED:20230428T170533Z
-LAST-MODIFIED:20230428T171720Z
+LAST-MODIFIED:20230429T150305Z
 UID:14388-1685631600-1685642400@ecda.eur.nl
-SUMMARY:Can Generative AI Generate Culture?
+SUMMARY:AI Mixer - Can AI Generate Culture?
 DESCRIPTION:June 1st in the Data Collaboratory at Erasmus University of Rotterdam. \n\n\n\nGenerative AI can create a wide variety of outputs\, including art\, music\, literature\, and other cultural artifacts. Whether these creations can truly be considered “culture” is a matter of debate. \n\n\n\nJoin us for an exclusive chance to hear from experts in the field of Art\, Music\, Education\, AI\, and Culture. \n\n\n\nSpeakers: \n\n\n\n\n● Renée van Holsteijn – AI Speaker & Moderator\n\n\n\n● Roel Lutkenhaus – Founder of New Momentum\n\n\n\n● Trilce Navarrete Hernandez – Assistant professor of Arts and Culture Studies\n\n\n\n● Cynthia Liem – Associate Professor at the Multimedia Computing Group at the Faculty of Electrical Engineering\, Mathematics and Computer Science (EEMCS) and the pianist of the Magma Duo.\n\n\n\n● Ksenia Fedorova – Critical AI Art\, Human Machines and Eliza Effect. Lecturer Leiden University Centre for the Arts in Society)\n\n\n\n● More to come.\n\n\n\n\n \n\n\n\nTopics include: \n\n\n\n\n● What is the effect of generative AI on cultural norms and values?\n\n\n\n● How has generative AI changed the way we approach and understand language and communication?\n\n\n\n● What are the ethical implications of using generative AI to create art\, literature\, or music?\n\n\n\n● How has generative AI changed the way we approach and understand the concept of originality in creative works?\n\n\n\n\n \n\n\n\nPlease register via Eventbrite \n\n\n\nProgram June 1\, 2023 \n\n\n\n\n15:00 – 15:30          Welcome \n\n\n\n\n\n15:30 – 16:00         Introduction and presentation\n\n\n\n\n\n16:00 – 17:00          Panel Discussion & Audience Interaction\n\n\n\n\n\n17:00 – 18:00          Networking drinks
 URL:https://ecda.eur.nl/event/can-generative-ai-generate-culture/
 LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/04/https___cdn.evbuc_.com_images_503197929_1413446456763_1_original.jpeg
+ATTACH;FMTTYPE=image/webp:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/04/https___cdn.evbuc_.com_images_503197929_1413446456763_1_original.jpeg
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20230918T080000
 DTEND;TZID=Europe/Amsterdam:20230922T200000
-DTSTAMP:20230429T143725
+DTSTAMP:20230430T143728
 CREATED:20220114T131234Z
 LAST-MODIFIED:20230228T143922Z
 UID:12562-1695024000-1695412800@ecda.eur.nl
@@ -57,15 +77,16 @@ SUMMARY:Urban Innovation Executive Leadership Programme
 DESCRIPTION:The Urban Innovation Executive Leadership Program provides an in-depth\, multidisciplinary orientation on the topic of Smart & Resilient Communities. It frames the future of our cities within the context of the 4th Industrial Revolution. It introduces the building blocks for successful digitalization and innovation strategies for communities\, cities and regions including innovation centric leadership\, agile governance\, cyber resilience\, innovation for scale\, citizen engagement\, digital inclusion\, agile regulations\, ethical frameworks\, digital fundamental and emerging technologies. \n\n\n\nLearning objectives\n\n\n\nAfter this programme\, you will be able to: \n\n\n\n\nUnderstand and apply the critical building blocks of a comprehensive digitalization strategy for a city or community to include agile governance\, ethics\, digital fundamentals and inclusion + design approaches\n\n\n\nProvide holistic\, multidisciplinary perspectives on urban (data driven) innovation\n\n\n\nFacilitate cross-department team building and alignment\n\n\n\nOptimize learning & organizational impact through hands-on / applied approaches\n\n\n\n\nFinally\, participants will be provided a comprehensive framework in response to the question: how to prepare for and facilitate resilient\, inclusive\, successful cities within the context of digitalization and the 4th Industrial Revolution?
 URL:https://ecda.eur.nl/event/urban-innovation-executive-leadership-programme/
 LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
+ATTACH;FMTTYPE=image/webp:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
 ATTACH;FMTTYPE=image/png:NA
 CATEGORIES:Urban Innovation Executive Leadership Programme
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20230926T210000
 DTEND;TZID=Europe/Amsterdam:20231212T220000
-DTSTAMP:20230429T143725
+DTSTAMP:20230430T143729
 CREATED:20220315T095802Z
 LAST-MODIFIED:20230212T014916Z
 UID:12799-1695762000-1702418400@ecda.eur.nl
@@ -73,15 +94,16 @@ SUMMARY:ECDA Leadership Challenge with Data Analytics | Regular Track (Spring 20
 DESCRIPTION:Artificial Intelligence will without any doubt change the way we will do business in the future. As a matter of fact\, it is already changing many businesses that we are involved in today. But what is needed to make Artificial Intelligence a valuable part of the way we do business ourselves? Many experts believe that successful Artificial Intelligence applications hinge on the so-called b-smact technologies (Blockchain\, Social media\, Mobile use\, Analytics\, Cloud and Things-on-the-internet or better known as IoT). The fueling component of those technologies is Big Data. This insight will require a whole new set of business skills. Understanding and working with new technologies for big data collection\, analysis and prediction will not create only huge opportunities for business\, but also ethical\, legal\, privacy and technical issues concerning every part of the organization. It will influence customer relationships\, redefine how firms develop new products and services\, change how operations are organized and managed\, improve demand and supply networks\, and provide the basis for new business models. It will demand a data-driven focus of everyone involved \n\n\n\nThis training programme combines the science of business\, data and societal perspectives. Participants – who usually join with a company team of 3 to 5 persons – acquire a broad knowledge and diverse skills related to data analytics which may lead to new insights that drive new value creation opportunities. Such learning by doing manifests itself along two dimensions: across multiple levels (individual\, group\, and corporate) and across multiple functions.
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-september-2022-edition/
 LOCATION:Hybrid
-ATTACH;FMTTYPE=image/jpeg:NA
+ATTACH;FMTTYPE=image/webp:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 CATEGORIES:Leadership Challenges with Data Analytics
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20230429T143725
+DTSTAMP:20230430T143729
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -89,8 +111,9 @@ SUMMARY:ECDA Leadership Challenge with Data Analytics | Education Track (Fall 20
 DESCRIPTION:The use of data and application of analytics and artificial intelligence (AI) will without any doubtchange the way we design and operate our Higher Education. As a matter of fact\, today it is alreadychanging our educational institutions. But what is needed to make analytics and AI valuable partsof the way we organize our education? Many experts believe that successful transformation of ourHigher Education hinges on five pillars: strategy\, hr and culture\, organisation\, governance andcompliance\, ICT.This insight will require a whole new set of skills and ways of working. Understanding and workingwith new technologies for (big) data collection\, analysis and prediction will not create only hugeopportunities\, but also ethical\, legal\, privacy and technical issues concerning every part of theorganization. It will influence the relationship with our students\, redefines how new programs andservices are developed\, changes how operations are managed\, and provides the basis for newservice offerings. It will demand a data driven focus of everyone involved in the organization.This training programme combines the science of business\, data\, and societal perspectives.Participants – who usually join with a team of 3 to 5 persons – acquire a broad knowledge and diverseskills related to data analytics\, which may lead to new insights that drive new value creationopportunities in the context of higher education. Such learning by doing manifests itself along twodimensions: across multiple levels (individual\, group) and across multiple functions
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-education-track-spring-2023-edition/
 LOCATION:Hybrid
-ATTACH;FMTTYPE=image/jpeg:NA
+ATTACH;FMTTYPE=image/webp:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 CATEGORIES:Leadership Challenges with Data Analytics
 END:VEVENT
