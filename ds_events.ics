@@ -1,49 +1,65 @@
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20230629T164500
+DTEND;TZID=Europe/Amsterdam:20230629T193000
+DTSTAMP:20230623T144643
+CREATED:20230622T162439Z
+LAST-MODIFIED:20230622T162440Z
+UID:14651-1688057100-1688067000@ecda.eur.nl
+SUMMARY:Masterclass Decolonizing AI
+DESCRIPTION:Join us for an insightful evening as we delve into the world of AI and its impact on society. You’ll hear from industry experts and thought leaders who will share their experiences and insights on the topic. \n\n\n\nThis in-person event is a great opportunity to network with like-minded individuals and gain a deeper understanding of the impact of AI on society. \n\n\n\nAI systems can reflect and perpetuate biases and inequalities present in society. \n\n\n\nThe prevention of institutional racism and discrimination in AI systems requires grasping two highly significant but often ignored aspects. \n\n\n\n1. The relation between inclusion and technology. The world of diversity and inclusion rarely meets the world of digitalization and automation\, while the two are often heavily intertwined. \n\n\n\n2. The nascent study of coloniality in this meeting of worlds. In this masterclass we will go beyond the ethical perspective that often overlooks these two aspects and provide an understanding of how colonial histories play a role in AI today. \n\n\n\nAbout the speaker Oumaima Hajri\, Researcher/Lecturer Responsible Applied AI\, Rotterdam University of Applied Sciences. \n\n\n\nOumaima Hajri is a researcher at Kenniscentrum Creating 010. Her focus lies at the intersection of artificial intelligence and ethics. Oumaima studies how artificial intelligence can be used in a responsible and ethical way – i.e.\, by looking at the ethical implications throughout the entire design process. Hajri is furthermore a board member of Public Spaces and initiator of the Alliance against Military AI consortium. \n\n\n\nProgram \n\n\n\n16:45 – 17:00 Welcome (Refreshments will be served) \n\n\n\n17:00 – 17:05 Kick-Off and Introduction \n\n\n\n17:05 – 17:50 Masterclass presentation on decolonizing AI \n\n\n\n17:50 – 18:05 Break (Refreshments and lite bites will be served) \n\n\n\n18:05 – 18:55 Interactive discussion and workshop \n\n\n\n18:55 – 19:00 Wrap-up \n\n\n\n19:00 – 19:30 Networking drinks and bites \n\n\n\nThis program is organized by the AI\, Data & Digitalization – Convergence\, (a collaboration with Erasmus MC\, Erasmus University Rotterdam\, and TU Delft) in which the complementarity of technical sciences with the humanities is central. \n\n\n\nThis Masterclass will answer the following questions: \n\n\n\n• What is the societal impact of AI? How does it intersect with issues of discrimination\, social inequality\, and climate change? \n\n\n\n• What strategies and techniques can be employed to identify and mitigate these issues in AI systems? \n\n\n\n• What role do diversity and inclusion play in fostering the development and use of AI for good? \n\n\n\n• Which considerations should policymakers\, regulators\, developers\, and designers include in fostering the development and use of AI for good? \n\n\n\n• What are the ongoing research areas and future directions for promoting social justice within the field of AI? \n\n\n\nTarget Audience \n\n\n\n• AI developers\, \n\n\n\n• Policymakers\, \n\n\n\n• Researchers\, \n\n\n\n• Civil society organizations\, \n\n\n\n• Interested citizens and affected communities.
+URL:https://ecda.eur.nl/event/masterclass-decolonizing-ai/
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/06/Fueuqr4Y.png
+LOCATION:NA
+CATEGORIES:NA
+ATTACH;FMTTYPE=image/jpeg:NA
+ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20230918T080000
 DTEND;TZID=Europe/Amsterdam:20230922T200000
-DTSTAMP:20230622T144302
+DTSTAMP:20230623T144643
 CREATED:20220114T131234Z
 LAST-MODIFIED:20230228T143922Z
 UID:12562-1695024000-1695412800@ecda.eur.nl
 SUMMARY:Urban Innovation Executive Leadership Programme
 DESCRIPTION:The Urban Innovation Executive Leadership Program provides an in-depth\, multidisciplinary orientation on the topic of Smart & Resilient Communities. It frames the future of our cities within the context of the 4th Industrial Revolution. It introduces the building blocks for successful digitalization and innovation strategies for communities\, cities and regions including innovation centric leadership\, agile governance\, cyber resilience\, innovation for scale\, citizen engagement\, digital inclusion\, agile regulations\, ethical frameworks\, digital fundamental and emerging technologies. \n\n\n\nLearning objectives\n\n\n\nAfter this programme\, you will be able to: \n\n\n\n\nUnderstand and apply the critical building blocks of a comprehensive digitalization strategy for a city or community to include agile governance\, ethics\, digital fundamentals and inclusion + design approaches\n\n\n\nProvide holistic\, multidisciplinary perspectives on urban (data driven) innovation\n\n\n\nFacilitate cross-department team building and alignment\n\n\n\nOptimize learning & organizational impact through hands-on / applied approaches\n\n\n\n\nFinally\, participants will be provided a comprehensive framework in response to the question: how to prepare for and facilitate resilient\, inclusive\, successful cities within the context of digitalization and the 4th Industrial Revolution?
 URL:https://ecda.eur.nl/event/urban-innovation-executive-leadership-programme/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
 CATEGORIES:Urban Innovation Executive Leadership Programme
 ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20230926T210000
 DTEND;TZID=Europe/Amsterdam:20231212T220000
-DTSTAMP:20230622T144302
+DTSTAMP:20230623T144643
 CREATED:20220315T095802Z
 LAST-MODIFIED:20230212T014916Z
 UID:12799-1695762000-1702418400@ecda.eur.nl
 SUMMARY:ECDA Leadership Challenge with Data Analytics | Regular Track (Spring 2023 Edition)
 DESCRIPTION:Artificial Intelligence will without any doubt change the way we will do business in the future. As a matter of fact\, it is already changing many businesses that we are involved in today. But what is needed to make Artificial Intelligence a valuable part of the way we do business ourselves? Many experts believe that successful Artificial Intelligence applications hinge on the so-called b-smact technologies (Blockchain\, Social media\, Mobile use\, Analytics\, Cloud and Things-on-the-internet or better known as IoT). The fueling component of those technologies is Big Data. This insight will require a whole new set of business skills. Understanding and working with new technologies for big data collection\, analysis and prediction will not create only huge opportunities for business\, but also ethical\, legal\, privacy and technical issues concerning every part of the organization. It will influence customer relationships\, redefine how firms develop new products and services\, change how operations are organized and managed\, improve demand and supply networks\, and provide the basis for new business models. It will demand a data-driven focus of everyone involved \n\n\n\nThis training programme combines the science of business\, data and societal perspectives. Participants – who usually join with a company team of 3 to 5 persons – acquire a broad knowledge and diverse skills related to data analytics which may lead to new insights that drive new value creation opportunities. Such learning by doing manifests itself along two dimensions: across multiple levels (individual\, group\, and corporate) and across multiple functions.
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-september-2022-edition/
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
 ATTACH;FMTTYPE=image/jpeg:NA
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20230622T144302
+DTSTAMP:20230623T144643
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
 SUMMARY:ECDA Leadership Challenge with Data Analytics | Education Track (Fall 2023 Edition)
 DESCRIPTION:The use of data and application of analytics and artificial intelligence (AI) will without any doubtchange the way we design and operate our Higher Education. As a matter of fact\, today it is alreadychanging our educational institutions. But what is needed to make analytics and AI valuable partsof the way we organize our education? Many experts believe that successful transformation of ourHigher Education hinges on five pillars: strategy\, hr and culture\, organisation\, governance andcompliance\, ICT.This insight will require a whole new set of skills and ways of working. Understanding and workingwith new technologies for (big) data collection\, analysis and prediction will not create only hugeopportunities\, but also ethical\, legal\, privacy and technical issues concerning every part of theorganization. It will influence the relationship with our students\, redefines how new programs andservices are developed\, changes how operations are managed\, and provides the basis for newservice offerings. It will demand a data driven focus of everyone involved in the organization.This training programme combines the science of business\, data\, and societal perspectives.Participants – who usually join with a team of 3 to 5 persons – acquire a broad knowledge and diverseskills related to data analytics\, which may lead to new insights that drive new value creationopportunities in the context of higher education. Such learning by doing manifests itself along twodimensions: across multiple levels (individual\, group) and across multiple functions
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-education-track-spring-2023-edition/
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
 ATTACH;FMTTYPE=image/jpeg:NA
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 ORGANIZER;CN="Erasmus%20Centre%20for%20Data%20Analytics":MAILTO:ecda@rsm.nl
 END:VEVENT
 END:VCALENDAR
