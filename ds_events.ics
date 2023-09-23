@@ -1,23 +1,7 @@
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20230918T080000
-DTEND;TZID=Europe/Amsterdam:20230922T200000
-DTSTAMP:20230922T143930
-CREATED:20220114T131234Z
-LAST-MODIFIED:20230228T143922Z
-UID:12562-1695024000-1695412800@ecda.eur.nl
-SUMMARY:Urban Innovation Executive Leadership Programme
-DESCRIPTION:The Urban Innovation Executive Leadership Program provides an in-depth\, multidisciplinary orientation on the topic of Smart & Resilient Communities. It frames the future of our cities within the context of the 4th Industrial Revolution. It introduces the building blocks for successful digitalization and innovation strategies for communities\, cities and regions including innovation centric leadership\, agile governance\, cyber resilience\, innovation for scale\, citizen engagement\, digital inclusion\, agile regulations\, ethical frameworks\, digital fundamental and emerging technologies. \n\n\n\nLearning objectives\n\n\n\nAfter this programme\, you will be able to: \n\n\n\n\nUnderstand and apply the critical building blocks of a comprehensive digitalization strategy for a city or community to include agile governance\, ethics\, digital fundamentals and inclusion + design approaches\n\n\n\nProvide holistic\, multidisciplinary perspectives on urban (data driven) innovation\n\n\n\nFacilitate cross-department team building and alignment\n\n\n\nOptimize learning & organizational impact through hands-on / applied approaches\n\n\n\n\nFinally\, participants will be provided a comprehensive framework in response to the question: how to prepare for and facilitate resilient\, inclusive\, successful cities within the context of digitalization and the 4th Industrial Revolution?
-URL:https://ecda.eur.nl/event/urban-innovation-executive-leadership-programme/
-LOCATION:Erasmus University Rotterdam\, Burgemeester Oudlaan 50\, Rotterdam\, South Holland\, 3062 PA\, Netherlands
-CATEGORIES:Urban Innovation Executive Leadership Programme
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2022/01/skyline-g676e6f7b8_1920.jpg
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20230926T210000
 DTEND;TZID=Europe/Amsterdam:20231212T220000
-DTSTAMP:20230922T143930
+DTSTAMP:20230923T143555
 CREATED:20220315T095802Z
 LAST-MODIFIED:20230212T014916Z
 UID:12799-1695762000-1702418400@ecda.eur.nl
@@ -26,14 +10,13 @@ DESCRIPTION:Artificial Intelligence will without any doubt change the way we wil
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-september-2022-edition/
 LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20230922T143930
+DTSTAMP:20230923T143555
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -42,7 +25,6 @@ DESCRIPTION:The use of data and application of analytics and artificial intellig
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-education-track-spring-2023-edition/
 LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
-ATTACH;FMTTYPE=image/jpeg:NA
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 END:VEVENT
