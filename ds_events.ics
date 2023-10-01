@@ -1,22 +1,7 @@
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20230926T210000
-DTEND;TZID=Europe/Amsterdam:20231212T220000
-DTSTAMP:20230930T143631
-CREATED:20220315T095802Z
-LAST-MODIFIED:20230212T014916Z
-UID:12799-1695762000-1702418400@ecda.eur.nl
-SUMMARY:ECDA Leadership Challenge with Data Analytics | Regular Track (Spring 2023 Edition)
-DESCRIPTION:Artificial Intelligence will without any doubt change the way we will do business in the future. As a matter of fact\, it is already changing many businesses that we are involved in today. But what is needed to make Artificial Intelligence a valuable part of the way we do business ourselves? Many experts believe that successful Artificial Intelligence applications hinge on the so-called b-smact technologies (Blockchain\, Social media\, Mobile use\, Analytics\, Cloud and Things-on-the-internet or better known as IoT). The fueling component of those technologies is Big Data. This insight will require a whole new set of business skills. Understanding and working with new technologies for big data collection\, analysis and prediction will not create only huge opportunities for business\, but also ethical\, legal\, privacy and technical issues concerning every part of the organization. It will influence customer relationships\, redefine how firms develop new products and services\, change how operations are organized and managed\, improve demand and supply networks\, and provide the basis for new business models. It will demand a data-driven focus of everyone involved \n\n\n\nThis training programme combines the science of business\, data and societal perspectives. Participants – who usually join with a company team of 3 to 5 persons – acquire a broad knowledge and diverse skills related to data analytics which may lead to new insights that drive new value creation opportunities. Such learning by doing manifests itself along two dimensions: across multiple levels (individual\, group\, and corporate) and across multiple functions.
-URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-september-2022-edition/
-LOCATION:Hybrid
-CATEGORIES:Leadership Challenges with Data Analytics
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
-ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20230930T143631
+DTSTAMP:20231001T143633
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -26,6 +11,21 @@ URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-educ
 LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
+ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20240304T120000
+DTEND;TZID=Europe/Amsterdam:20240304T120000
+DTSTAMP:20231001T143633
+CREATED:20220315T095802Z
+LAST-MODIFIED:20231001T075003Z
+UID:12799-1709553600-1709553600@ecda.eur.nl
+SUMMARY:ECDA Leadership Challenge with Data Analytics | Regular Track
+DESCRIPTION:Artificial Intelligence will without any doubt change the way we will do business in the future. As a matter of fact\, it is already changing many businesses that we are involved in today. But what is needed to make Artificial Intelligence a valuable part of the way we do business ourselves? Many experts believe that successful Artificial Intelligence applications hinge on the so-called b-smact technologies (Blockchain\, Social media\, Mobile use\, Analytics\, Cloud and Things-on-the-internet or better known as IoT). The fueling component of those technologies is Big Data. This insight will require a whole new set of business skills. Understanding and working with new technologies for big data collection\, analysis and prediction will not create only huge opportunities for business\, but also ethical\, legal\, privacy and technical issues concerning every part of the organization. It will influence customer relationships\, redefine how firms develop new products and services\, change how operations are organized and managed\, improve demand and supply networks\, and provide the basis for new business models. It will demand a data-driven focus of everyone involved \n\n\n\nThis training programme combines the science of business\, data and societal perspectives. Participants – who usually join with a company team of 3 to 5 persons – acquire a broad knowledge and diverse skills related to data analytics which may lead to new insights that drive new value creation opportunities. Such learning by doing manifests itself along two dimensions: across multiple levels (individual\, group\, and corporate) and across multiple functions.
+URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-september-2022-edition/
+LOCATION:Hybrid
+CATEGORIES:Leadership Challenges with Data Analytics
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 END:VEVENT
 END:VCALENDAR
