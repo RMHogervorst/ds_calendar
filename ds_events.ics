@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231004T144301
+DTSTAMP:20231005T144258
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -12,11 +12,44 @@ LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20231009T153000
+DTEND;TZID=Europe/Amsterdam:20231009T180000
+DTSTAMP:20231005T144258
+CREATED:20231005T082451Z
+LAST-MODIFIED:20231005T082835Z
+UID:15201-1696865400-1696874400@ecda.eur.nl
+SUMMARY:Erasmus Language Model
+DESCRIPTION:With great enthusiasm we hereby invite you to the launch of the Erasmian Language Model (ELM) at the Erasmus Paviljoen on 9 October. ELM is a project developed at the Erasmus University Rotterdam\, providing an alternative to other language models. Our model is totally tailored to the needs of academic education and research. Over the past few months our team has worked with passion\, curiosity and vigour on creating the world’s first generative AI by\, with and for academia. We are eager to share our first results with you and together enter a new phase in the further development of ELM. \n\n\n\nDuring the launch we will present the why and the how of the project. More importantly you will see the premier public demonstration of how the language model functions via a mock showcase. After the demonstration there will be drinks and the opportunity to try out ELM yourself. \n\n\n\nProgram Agenda\n\n\n\nIn order to secure your spot please register here. The programme is as follows. \n\n\n\n15.30 – 16.00 Walk-in at Erasmus Paviljoen\, EUR \n\n\n\n16.00 – 16.05 Opening \n\n\n\n16.05 – 17.00 Presentation ELM \n\n\n\n17.00 – 18.00 Drinks and live try-out
+URL:https://ecda.eur.nl/event/erasmus-language-model/
+LOCATION:NA
+CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
+ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/10/ELM-LinkedIn-Post-1-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20231013T090000
+DTEND;TZID=Europe/Amsterdam:20231013T170000
+DTSTAMP:20231005T144258
+CREATED:20231005T105953Z
+LAST-MODIFIED:20231005T105954Z
+UID:15208-1697187600-1697216400@ecda.eur.nl
+SUMMARY:Trust me\, I’m not a doctor
+DESCRIPTION:Do you want to explore the future of AI in healthcare? Join us for the cross-disciplinary AI Design-A-Thon\, “Trust me\, I’m not a doctor” 🩺  \n\n\n\nIf you are a creative coder\, AI researcher\, legal expert\, artist\, social scientist\, engineer\, or medical specialist\, let’s join forces for playful cross-disciplinary exchange and skill sharing! 💪  \n\n\n\nLed by our project lead Lorenzo Duchi and using real-world cases provided by our guests Weiran H. and Hugo Horlings\, you will be working with cutting-edge AI technologies for detecting cancer! 👨⚕️  \n\n\n\nCurious? This is what’s in it for you:  👤 Build an interdisciplinary network 💻 Work in small groups\, led by someone with coding skills 📁 Learn to work with (natural language) coding repositories 👥 Learn co-design and rapid prototyping methods 🏅 Receive a certificate of participation …and much more!  \n\n\n\nDetails: 🗓️ Friday\, October 13th ⏰ 09:00 – 17:00 📍Erasmus Data Collaboratory House of AI\, Rotterdam  \n\n\n\nRegister here: https://lnkd.in/eNcErvWw
+URL:https://ecda.eur.nl/event/trust-me-im-not-a-doctor/
+LOCATION:NA
+CATEGORIES:NA
+ATTACH;FMTTYPE=image/png:NA
+ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/10/Data-Hacking-Upcoming.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231004T144301
+DTSTAMP:20231005T144258
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
@@ -27,5 +60,6 @@ LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
+ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 END:VCALENDAR
