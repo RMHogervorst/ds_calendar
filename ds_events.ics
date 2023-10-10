@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231009T144325
+DTSTAMP:20231010T144105
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -15,25 +15,9 @@ ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20231009T153000
-DTEND;TZID=Europe/Amsterdam:20231009T180000
-DTSTAMP:20231009T144325
-CREATED:20231005T082451Z
-LAST-MODIFIED:20231005T082835Z
-UID:15201-1696865400-1696874400@ecda.eur.nl
-SUMMARY:Erasmus Language Model
-DESCRIPTION:With great enthusiasm we hereby invite you to the launch of the Erasmian Language Model (ELM) at the Erasmus Paviljoen on 9 October. ELM is a project developed at the Erasmus University Rotterdam\, providing an alternative to other language models. Our model is totally tailored to the needs of academic education and research. Over the past few months our team has worked with passion\, curiosity and vigour on creating the world’s first generative AI by\, with and for academia. We are eager to share our first results with you and together enter a new phase in the further development of ELM. \n\n\n\nDuring the launch we will present the why and the how of the project. More importantly you will see the premier public demonstration of how the language model functions via a mock showcase. After the demonstration there will be drinks and the opportunity to try out ELM yourself. \n\n\n\nProgram Agenda\n\n\n\nIn order to secure your spot please register here. The programme is as follows. \n\n\n\n15.30 – 16.00 Walk-in at Erasmus Paviljoen\, EUR \n\n\n\n16.00 – 16.05 Opening \n\n\n\n16.05 – 17.00 Presentation ELM \n\n\n\n17.00 – 18.00 Drinks and live try-out
-URL:https://ecda.eur.nl/event/erasmus-language-model/
-LOCATION:NA
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/10/ELM-LinkedIn-Post-1-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231013T090000
 DTEND;TZID=Europe/Amsterdam:20231013T170000
-DTSTAMP:20231009T144325
+DTSTAMP:20231010T144105
 CREATED:20231005T105953Z
 LAST-MODIFIED:20231005T105954Z
 UID:15208-1697187600-1697216400@ecda.eur.nl
@@ -49,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231009T144325
+DTSTAMP:20231010T144105
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
