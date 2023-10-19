@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231012T144115
+DTSTAMP:20231019T144141
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -15,25 +15,25 @@ ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20231013T090000
-DTEND;TZID=Europe/Amsterdam:20231013T170000
-DTSTAMP:20231012T144115
-CREATED:20231005T105953Z
-LAST-MODIFIED:20231005T105954Z
-UID:15208-1697187600-1697216400@ecda.eur.nl
-SUMMARY:Trust me\, I’m not a doctor
-DESCRIPTION:Do you want to explore the future of AI in healthcare? Join us for the cross-disciplinary AI Design-A-Thon\, “Trust me\, I’m not a doctor” 🩺  \n\n\n\nIf you are a creative coder\, AI researcher\, legal expert\, artist\, social scientist\, engineer\, or medical specialist\, let’s join forces for playful cross-disciplinary exchange and skill sharing! 💪  \n\n\n\nLed by our project lead Lorenzo Duchi and using real-world cases provided by our guests Weiran H. and Hugo Horlings\, you will be working with cutting-edge AI technologies for detecting cancer! 👨⚕️  \n\n\n\nCurious? This is what’s in it for you:  👤 Build an interdisciplinary network 💻 Work in small groups\, led by someone with coding skills 📁 Learn to work with (natural language) coding repositories 👥 Learn co-design and rapid prototyping methods 🏅 Receive a certificate of participation …and much more!  \n\n\n\nDetails: 🗓️ Friday\, October 13th ⏰ 09:00 – 17:00 📍Erasmus Data Collaboratory House of AI\, Rotterdam  \n\n\n\nRegister here: https://lnkd.in/eNcErvWw
-URL:https://ecda.eur.nl/event/trust-me-im-not-a-doctor/
+DTSTART;TZID=Europe/Amsterdam:20231123T000000
+DTEND;TZID=Europe/Amsterdam:20231123T235959
+DTSTAMP:20231019T144141
+CREATED:20231017T123115Z
+LAST-MODIFIED:20231019T121324Z
+UID:15294-1700697600-1700783999@ecda.eur.nl
+SUMMARY:Erasmus Thesis Awards
+DESCRIPTION:Save the date for this year’s Erasmus Thesis Awards!! \n\n\n\nOn 23 November\, together with student organizations MAEUR – Marketing Association EUR & FAECTOR\, we will organize the Erasmus Thesis Awards 2023 ‘Impactful Data Analytics’ at the Erasmus Universiteit Rotterdam. \n\n\n\n4 very talented data and AI-minded recent EUR graduates will compete for an amazing cash prize. All 4 are nominated by their EUR master programs with a strong data component. \n\n\n\nOn November 23\, they will pitch their master thesis in front of the industry expert jury and the audience. Next to the methods applied\, the contextual understanding and applicability of their research\, the social impact and innovativeness are key elements for the jury. \n\n\n\nFor who?\n\n\n\n🎓 Students: a great opportunity to get inspired for writing your own thesis\, while connecting with data professionals and AI experts.🏙 Industry professionals: connect with talented and driven students.💡 Academics: support your new research talent and connect with data and AI practitioners. \n\n\n\n✔ Register now to save your spot here. \n\n\n\nMake sure you follow Erasmus Centre for Data Analytics MAEUR – Marketing Association EUR and FAECTOR for updates about the program\, nominees and collaborating partners. \n\n\n\nSee you soon!
+URL:https://ecda.eur.nl/event/erasmus-thesis-awards/
 LOCATION:NA
-CATEGORIES:NA
+CATEGORIES:Erasmus Thesis Awards
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/10/Data-Hacking-Upcoming.jpg
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/10/Website-Banner-Day-1-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231012T144115
+DTSTAMP:20231019T144141
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
