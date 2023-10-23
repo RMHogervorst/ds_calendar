@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231022T143700
+DTSTAMP:20231023T144044
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -12,28 +12,26 @@ LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
-ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20231123T000000
-DTEND;TZID=Europe/Amsterdam:20231123T235959
-DTSTAMP:20231022T143700
+DTSTART;TZID=Europe/Amsterdam:20231123T150000
+DTEND;TZID=Europe/Amsterdam:20231123T190000
+DTSTAMP:20231023T144044
 CREATED:20231017T123115Z
-LAST-MODIFIED:20231019T121324Z
-UID:15294-1700697600-1700783999@ecda.eur.nl
+LAST-MODIFIED:20231023T083917Z
+UID:15294-1700751600-1700766000@ecda.eur.nl
 SUMMARY:Erasmus Thesis Awards
 DESCRIPTION:Save the date for this year’s Erasmus Thesis Awards!! \n\n\n\nOn 23 November\, together with student organizations MAEUR – Marketing Association EUR & FAECTOR\, we will organize the Erasmus Thesis Awards 2023 ‘Impactful Data Analytics’ at the Erasmus Universiteit Rotterdam. \n\n\n\n4 very talented data and AI-minded recent EUR graduates will compete for an amazing cash prize. All 4 are nominated by their EUR master programs with a strong data component. \n\n\n\nOn November 23\, they will pitch their master thesis in front of the industry expert jury and the audience. Next to the methods applied\, the contextual understanding and applicability of their research\, the social impact and innovativeness are key elements for the jury. \n\n\n\nFor who?\n\n\n\n🎓 Students: a great opportunity to get inspired for writing your own thesis\, while connecting with data professionals and AI experts.🏙 Industry professionals: connect with talented and driven students.💡 Academics: support your new research talent and connect with data and AI practitioners. \n\n\n\n✔ Register now to save your spot here. \n\n\n\nMake sure you follow Erasmus Centre for Data Analytics MAEUR – Marketing Association EUR and FAECTOR for updates about the program\, nominees and collaborating partners. \n\n\n\nSee you soon!
 URL:https://ecda.eur.nl/event/erasmus-thesis-awards/
 LOCATION:NA
 CATEGORIES:Erasmus Thesis Awards
-ATTACH;FMTTYPE=image/png:NA
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/10/Website-Banner-Day-1.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/10/Website-Banner-Day-1-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231022T143700
+DTSTAMP:20231023T144044
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
@@ -44,6 +42,5 @@ LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
 ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
-ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 END:VCALENDAR
