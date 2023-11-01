@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231031T133918
+DTSTAMP:20231101T134044
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -15,25 +15,9 @@ ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20231101T110000
-DTEND;TZID=Europe/Amsterdam:20231101T120000
-DTSTAMP:20231031T133918
-CREATED:20231030T103744Z
-LAST-MODIFIED:20231030T103745Z
-UID:15398-1698836400-1698840000@ecda.eur.nl
-SUMMARY:Convergence meeting - A﻿I\, law\, ethics and data protection
-DESCRIPTION:A﻿I\, law\, ethics and data protection \n\n\n\nThis lecture examines the tensions and proximities between AI and data protection principles\, such as purpose limitation\, data minimization and fairness. It considers challenges and opportunities for individuals and society\, and the ways in which risks can be countered\, and opportunities enabled through law and technology. \n\n\n\nAbout the speaker: Marlon Domingus.Data Protection Officer for the Erasmus University Rotterdam (EUR)\, the EUR Holding and RSM BV. \n\n\n\n\n\n\nMarlon Domingus is regularly tasked as chair of working groups on national level. He specializes in GDPR\, and writes and speaks about privacy governance\, (data) ethics\, privacy by design & privacy engineering\, risk management & privacy audits\, and developments in EU data governance reform (AI Act\, DMA\, DSA\, DGA\, DA). He has a background in philosophy. \n\n\n\nThis programme is organised by the Inclusion\, Diversity\, Equity and Access Center of the Erasmus University Rotterdam in collaboration with AI Convergence. \n\n\n\nRegister here!
-URL:https://ecda.eur.nl/event/convergence-meeting-ai-law-ethics-and-data-protection/
-LOCATION:NA
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231109T150000
 DTEND;TZID=Europe/Amsterdam:20231109T180000
-DTSTAMP:20231031T133918
+DTSTAMP:20231101T134044
 CREATED:20231025T094547Z
 LAST-MODIFIED:20231030T105125Z
 UID:15337-1699542000-1699552800@ecda.eur.nl
@@ -49,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231123T150000
 DTEND;TZID=Europe/Amsterdam:20231123T190000
-DTSTAMP:20231031T133918
+DTSTAMP:20231101T134044
 CREATED:20231017T123115Z
 LAST-MODIFIED:20231023T083917Z
 UID:15294-1700751600-1700766000@ecda.eur.nl
@@ -65,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231128T100000
 DTEND;TZID=Europe/Amsterdam:20231128T120000
-DTSTAMP:20231031T133918
+DTSTAMP:20231101T134044
 CREATED:20231030T105030Z
 LAST-MODIFIED:20231030T105240Z
 UID:15400-1701165600-1701172800@ecda.eur.nl
@@ -81,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231031T133918
+DTSTAMP:20231101T134044
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
