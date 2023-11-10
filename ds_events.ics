@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231109T133914
+DTSTAMP:20231110T133913
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -15,25 +15,9 @@ ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20231109T150000
-DTEND;TZID=Europe/Amsterdam:20231109T180000
-DTSTAMP:20231109T133914
-CREATED:20231025T094547Z
-LAST-MODIFIED:20231030T105125Z
-UID:15337-1699542000-1699552800@ecda.eur.nl
-SUMMARY:Empowering a Sustainable Future
-DESCRIPTION:In the fall of 2022\, we had the ambitious idea to develop a new form of behavioral interventions. By combining our expertise in behavioral science and machine learning\, we set out to develop an approach that personalizes behavior interventions based on the motives and behaviors of individual consumers. An integral part of our research agenda is a new research platform on which we can run behavioral experiments around intervention personalization.  \n\n\n\nAt the same time\, we wanted to make the research itself sustainable: (1) promote sustainable development goals\, (2) partner with companies and institutions that promote sustainable developments\, and (3) promote open science by publishing our data and code generated through our platform.  \n\n\n\nAfter less than twelve months\, our project is in full swing! We were awarded a Kickstarter Convergence grant\, received a Veni grant\, and won an honorable mention at the EMAC–Sheth Foundation Sustainability Research Competition. Most importantly\, we have gained the generous support of fantastic sponsors\, and we have developed a prototype for our field experiment app.  \n\n\n\nWe want to celebrate these developments and to bring all project partners and researchers together\, at our Empowering a Sustainable Future conference.  \n\n\n\nWhen and Where?\n\n\n\n \n\n\n\nNovember 9th from 15:00 to 18:00   \n\n\n\nPolak building\, Erasmus University Rotterdam\, Campus Woudenstein  \n\n\n\nPerfectly in line with our project\, we are delighted that Eric van Heck will inspire us with his thoughts on using algorithms for circular business models.  \n\n\n\nConference Agenda\n\n\n\n \n\n\n\n15:00-15:15: Walk in and Registration \n\n\n\n \n\n\n\n15:15-15:35 Project presentation – Sebastian Gabel & Antonia Krefeld–Schwalb \n\n\n\n \n\n\n\n15:35-16:05 Networking session 1: Meet research experts. \n\n\n\nDuring this half an hour\, you can ask in depth questions to our sustainability researchers. Two tables will be formed where you can ask direct questions to both Antonia and Sebastian. Sebastian can give you more information on how machine learning is integrated into the research; Antonia can give you a deep dive on the psychological and behavioral aspects of the project.  \n\n\n\n \n\n\n\n16:05-16:35 Keynote Speech – Eric van Heck: Five Ways to Improve Your Algorithms for Circular Business \n\n\n\nAbstract  \n\n\n\nAlgorithms based on Artificial Intelligence (AI) combined with Internet-of-Things (IoT) and Blockchain (BC) technologies will create new opportunities for sustainable and circular business models. Instead of the ‘take\, make\, and dispose’ attitude of traditional and linear business\, circular business will be able to create social\, economic\, and ecological value by combining less consumption (refuse\, rethink\, and reduce) with smart production (re-use\, repair\, refurbish\, remanufacture\, repurpose\, recycling\, and recover) of products and services and with partners and customers in a circular and digital business ecosystem. This keynote will discuss and illustrate algorithms for circular business and its five key design challenges.   \n\n\n\nSpeaker  \n\n\n\nEric van Heck is Professor of Information and Markets at Rotterdam School of Management\, Erasmus University. His research in the flower sector was awarded with the ERIM Book Award\, for the book Making Markets\, and the AIS Impact Award and INFORMS ISS Design Award for research to make the flower sector more sustainable. He is author of Technology Meets Flowers. Unlocking the Circular and Digital Economy (Springer Nature\, 2021); translated in Dutch as Technologie en Tulpen. Circulaire en digitale innovatie in de bloemensector (Mediawerf\, 2002). The Dutch translation is longlisted for the Management Book of 2023.   \n\n\n\n\n\n\n\nProfessor Eric van Heck Professor of Information Management and Markets Rotterdam School of Management  \n\n\n\n \n\n\n\n16:35-17:05 Networking session 2: Meet sustainability heroes. \n\n\n\nInterested sponsors will each be given a few minutes to talk about their company vision\, mission\, and products\, and to discuss the interesting questions and challenges they have encountered during their business ventures.  \n\n\n\n \n\n\n\n17:05-18:00 Closing drinks and snacks  \n\n\n\nQuestions?\n\n\n\n \n\n\n\nThis event promises to be a great opportunity for all existing and potential partners\, including you\, to come together\, forge meaningful connections with business and research partners\, and learn more about our project and the progress we made.  \n\n\n\nIf you have questions\, please contact us at sutainability@rsm.nl!  \n\n\n\nWe are very looking forward to discussing our project and your efforts for a sustainable future with you\, and to celebrate what we have accomplished already 🎉  \n\n\n\nSee you at Erasmus in November!  \n\n\n\nAntonia & Sebastian  \n\n\n\nPowered by the Smart Campus Project
-URL:https://ecda.eur.nl/event/empowering-a-sustainable-future/
-LOCATION:NA
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
-ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231123T150000
 DTEND;TZID=Europe/Amsterdam:20231123T190000
-DTSTAMP:20231109T133914
+DTSTAMP:20231110T133913
 CREATED:20231017T123115Z
 LAST-MODIFIED:20231023T083917Z
 UID:15294-1700751600-1700766000@ecda.eur.nl
@@ -49,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231128T080000
 DTEND;TZID=Europe/Amsterdam:20231201T170000
-DTSTAMP:20231109T133914
+DTSTAMP:20231110T133913
 CREATED:20231102T111051Z
 LAST-MODIFIED:20231102T111053Z
 UID:15416-1701158400-1701450000@ecda.eur.nl
@@ -65,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231128T100000
 DTEND;TZID=Europe/Amsterdam:20231128T120000
-DTSTAMP:20231109T133914
+DTSTAMP:20231110T133913
 CREATED:20231030T105030Z
 LAST-MODIFIED:20231030T105240Z
 UID:15400-1701165600-1701172800@ecda.eur.nl
@@ -81,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231109T133914
+DTSTAMP:20231110T133913
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
