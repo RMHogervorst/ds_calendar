@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231121T134221
+DTSTAMP:20231122T134140
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231123T150000
 DTEND;TZID=Europe/Amsterdam:20231123T190000
-DTSTAMP:20231121T134221
+DTSTAMP:20231122T134140
 CREATED:20231017T123115Z
 LAST-MODIFIED:20231023T083917Z
 UID:15294-1700751600-1700766000@ecda.eur.nl
@@ -33,23 +33,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231128T080000
 DTEND;TZID=Europe/Amsterdam:20231201T170000
-DTSTAMP:20231121T134221
+DTSTAMP:20231122T134140
 CREATED:20231102T111051Z
-LAST-MODIFIED:20231102T111053Z
+LAST-MODIFIED:20231121T125407Z
 UID:15416-1701158400-1701450000@ecda.eur.nl
 SUMMARY:Immersive Tech Week Rotterdam
 DESCRIPTION:De Doelen\, Rotterdam \n\n\n\n\n\n\n\nAre you excited about the upcoming Immersive Tech Week in Rotterdam? \n\n\n\nErasmus Centre for Data Analytics will be again a supporting partner for Immersive Tech Week this year. \n\n\n\nThis is an exciting opportunity to dive into the world of endless virtual possibilities and immersive technology. Immersive Tech Week is a unique festival where creativity\, innovation\, business\, research and art meet to explore the impact of immersive technologies on our planet\, culture\, and society. \n\n\n\nFeel free to use our discount code\, especially for the members of our Erasmus Universiteit Rotterdam and Erasmus Centre for Data Analytics community. You will get 20% discount\, if you type in “ECDA20” when purchasing the tickets. \n\n\n\nSee you there! \n\n\n\nFor more information\, visit the website: https://www.immersivetechweek.co/
 URL:https://ecda.eur.nl/event/immersive-tech-week-rotterdam/
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/11/Website-Banner-Day-1-2.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231128T100000
 DTEND;TZID=Europe/Amsterdam:20231128T120000
-DTSTAMP:20231121T134221
+DTSTAMP:20231122T134140
 CREATED:20231030T105030Z
 LAST-MODIFIED:20231030T105240Z
 UID:15400-1701165600-1701172800@ecda.eur.nl
@@ -65,9 +65,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231130T163000
 DTEND;TZID=Europe/Amsterdam:20231130T190000
-DTSTAMP:20231121T134221
+DTSTAMP:20231122T134140
 CREATED:20231120T130653Z
-LAST-MODIFIED:20231120T141255Z
+LAST-MODIFIED:20231121T125238Z
 UID:15469-1701361800-1701370800@ecda.eur.nl
 SUMMARY:Invitation AICON Lab
 DESCRIPTION:On behalf of Erasmus University Rotterdam and the Municipality of Rotterdam we are excited to invite you to the grand opening of the AICON LAB art exhibition at VONK. Dive deep into the fascinating world of Artificial Intelligence (AI) at AICON LAB. \n\n\n\n \n\n\n\nAICON – an initiative of the societal impact of AI initiative (‘AiPact’)\, Erasmus University Rotterdam – is a collective of scientists\, students\, artists\, organizations\, and residents of the city of Rotterdam. Together\, we explore in an accessible way the social implications of AI: how can the use of AI create new possibilities while minimizing potential risks? \n\n\n\n \n\n\n\nAI is fueled by human values\, perceptions\, and preferences. How do we\, as a society\, deal with that? What meaning does AI have for the city and its residents? What is the impact of AI on both private and professional life? How do we want to shape the present and the future? By collaborating\, we can build a deeper understanding of the role of AI in our world. \n\n\n\n \n\n\n\nEvent Details \n\n\n\n \n\n\n\n📅 Date: November 30th🕔 Programme:• 16:30 – 17:00 Walk-in• 17:00 Welcome word from Gerard Nijboer from Team Innovation Municipality of Rotterdam and Erasmus Professor Moniek Buijzen• 17:00 – 19:00 Explore the AICON LAB📍 Venue: het Timmerhuis\, 90 Halvemaanpassage\, Rotterdam\, ZH\, 3011 DL \n\n\n\n \n\n\n\nPlease sign up through the following link: https://www.eventbrite.com/e/tickets-aicon-lab-vonk-749782879777?aff=oddtdtcreator
@@ -76,44 +76,44 @@ LOCATION:NA
 CATEGORIES:NA
 ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-ATTACH;FMTTYPE=image/jpeg:NA
+ATTACH;FMTTYPE=image/jpeg:https://ecda.eur.nl/wp-content/uploads/2023/11/AICON-LAB-QR_Matthijs-Malkus.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231218T163000
 DTEND;TZID=Europe/Amsterdam:20231218T193000
-DTSTAMP:20231121T134221
+DTSTAMP:20231122T134140
 CREATED:20231120T125531Z
-LAST-MODIFIED:20231120T125635Z
+LAST-MODIFIED:20231121T125207Z
 UID:15465-1702917000-1702927800@ecda.eur.nl
 SUMMARY:AI in Gezondheidszorg: Masterclass
 DESCRIPTION:(English Follows) \n\n\n\n \n\n\n\nDuik in de toekomst van de gezondheidszorg tijdens onze AI Masterclass!  \n\n\n\n \n\n\n\nOntdek wat AI in de radiologie ons vertelt over de bredere toepassingen in de gezondheidszorgsector. Leer hoe deze technologieën worden toegepast en welke uitdagingen ze met zich meebrengen\, terwijl je netwerkt met academici\, bestuurders en zorgprofessionals.  \n\n\n\n \n\n\n\nOntvang inzichten van expert en leider in het veld\, Dr. Jan-Jaap Visser\, musculoskeletale radioloog en Chief Medical Information Officer van het ErasmusMC. Dagvoorzitter en managing director van het TU Delft Digital Ethics Centre\, Dr. Stefan Buijsman\, zal het programma leiden en kennis delen over het verantwoord ontwikkelen en gebruiken van AI-systemen.  \n\n\n\n \n\n\n\nHet programma zal plaatsnemen op December 18 om 17:00-19:00 in het Polak gebouw van Erasmus Universiteit Rotterdam. Noteer de datum en laten we samen de toekomst van de gezondheidszorg omarmen!  \n\n\n\n \n\n\n\n\n\n\n\n \n\n\n\nDive into the future of healthcare at our AI Masterclass!  \n\n\n\n \n\n\n\nUncover what AI in radiology tells us about the wider implications in the healthcare sector. Learn how these technologies are applied and the challenge they pose\, all whilst networking with with academics\, administrators and healthcare professionals.  \n\n\n\n \n\n\n\nGet insights from an expert and leader in the field\, Dr. Jan-Jaap Visser\, musculoskeletal radiologist and Chief Medical Information Officer from ErasmusMC. Dr. Stefan Buijsman\, Chairman of the event and managing director at TU Delft Digital Ethics Centre\, will guide the programme and share insights on the responsible development and use of AI-systems.  \n\n\n\n \n\n\n\nThe programme takes place on December 18 from 17:00-19:00 in the Polak building at Erasmus University Rotterdam. Save the date and let’s embrace the future of healthcare together! 
 URL:https://ecda.eur.nl/event/ai-in-gezondheidszorg-masterclass/
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/11/AI-Masterclass-Eventbrite-banner_dutch_Monika-Olbrycht.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231219T163000
 DTEND;TZID=Europe/Amsterdam:20231219T200000
-DTSTAMP:20231121T134221
+DTSTAMP:20231122T134140
 CREATED:20231120T131541Z
-LAST-MODIFIED:20231120T131543Z
+LAST-MODIFIED:20231121T125259Z
 UID:15473-1703003400-1703016000@ecda.eur.nl
 SUMMARY:ECDA Community Christmas Drinks
 DESCRIPTION:Do you already feel the festive atmosphere of upcoming Christmas?   Like every year\, we invite you to join us for our very special Christmas Drinks\, organized by Erasmus Centre for Data Analytics\, as an occasion to celebrate Christmas together in our data-driven community.   In addition to meeting together and exchanging our stories and latest discoveries in a cozy Christmas ambience\, we’ll have a distinctive opportunity to explore AI and Data Analytics from a theological standpoint. This will be possible thanks to our two guests speakers\, Martijn de Jong and Jack Esselink\, whose expertise combine the religion and AI & Large Language Model (LLM).   Martijn de Jong is a chair professor of quantitative marketing at the Erasmus School of Economics and will present his new expert practice – Catholic Advanced Analytics. Jack Esselink is a Data & AI Evangelist\, Digital Ethicist and Theologian Educator at Studio Pulpit and will introduce us to the fascinating topic of relations between theology and AI.  The event will take place in Erasmus University Rotterdam in Polak Building\, at 16:30 on December 19. We are excited to see you soon and celebrate together!  
 URL:https://ecda.eur.nl/event/ecda-community-christmas-drinks/
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/11/Christmas-Visual-Final_Monika-Olbrycht.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 ATTACH;FMTTYPE=image/jpeg:NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231121T134221
+DTSTAMP:20231122T134140
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
