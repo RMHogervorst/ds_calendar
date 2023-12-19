@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231218T134222
+DTSTAMP:20231219T133909
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -14,24 +14,9 @@ ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screensh
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20231218T163000
-DTEND;TZID=Europe/Amsterdam:20231218T193000
-DTSTAMP:20231218T134222
-CREATED:20231120T125531Z
-LAST-MODIFIED:20231206T152318Z
-UID:15465-1702917000-1702927800@ecda.eur.nl
-SUMMARY:AI in Gezondheidszorg: Masterclass
-DESCRIPTION:(English Follows) \n\n\n\n \n\n\n\nDuik in de toekomst van de gezondheidszorg tijdens onze AI Masterclass!  \n\n\n\n \n\n\n\nOntdek wat AI in de radiologie ons vertelt over de bredere toepassingen in de gezondheidszorgsector. Leer hoe deze technologieën worden toegepast en welke uitdagingen ze met zich meebrengen\, terwijl je netwerkt met academici\, bestuurders en zorgprofessionals.  \n\n\n\n \n\n\n\nOntvang inzichten van expert en leider in het veld\, Dr. Jan-Jaap Visser\, musculoskeletale radioloog en Chief Medical Information Officer van het ErasmusMC. Dagvoorzitter en managing director van het TU Delft Digital Ethics Centre\, Dr. Stefan Buijsman\, zal het programma leiden en kennis delen over het verantwoord ontwikkelen en gebruiken van AI-systemen.  \n\n\n\n \n\n\n\nHet programma zal plaatsnemen op December 18 om 17:00-19:00 in het Polak gebouw van Erasmus Universiteit Rotterdam. Noteer de datum en laten we samen de toekomst van de gezondheidszorg omarmen!  \n\n\n\n \n\n\n\n\n\n\n\n \n\n\n\nDive into the future of healthcare at our AI Masterclass!  \n\n\n\n \n\n\n\nUncover what AI in radiology tells us about the wider implications in the healthcare sector. Learn how these technologies are applied and the challenge they pose\, all whilst networking with with academics\, administrators and healthcare professionals.  \n\n\n\n \n\n\n\nGet insights from an expert and leader in the field\, Dr. Jan-Jaap Visser\, musculoskeletal radiologist and Chief Medical Information Officer from ErasmusMC. Dr. Stefan Buijsman\, Chairman of the event and managing director at TU Delft Digital Ethics Centre\, will guide the programme and share insights on the responsible development and use of AI-systems.  \n\n\n\n \n\n\n\nThe programme takes place on December 18 from 17:00-19:00 in the Polak building at Erasmus University Rotterdam. Save the date and let’s embrace the future of healthcare together! 
-URL:https://ecda.eur.nl/event/ai-in-gezondheidszorg-masterclass/
-LOCATION:NA
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/11/AI-Masterclass-Eventbrite-banner_dutch_Monika-Olbrycht.png
-ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231219T163000
 DTEND;TZID=Europe/Amsterdam:20231219T200000
-DTSTAMP:20231218T134222
+DTSTAMP:20231219T133909
 CREATED:20231120T131541Z
 LAST-MODIFIED:20231121T125259Z
 UID:15473-1703003400-1703016000@ecda.eur.nl
@@ -46,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240116T163000
 DTEND;TZID=Europe/Amsterdam:20240116T183000
-DTSTAMP:20231218T134222
+DTSTAMP:20231219T133909
 CREATED:20231210T194839Z
 LAST-MODIFIED:20231211T082843Z
 UID:15904-1705422600-1705429800@ecda.eur.nl
@@ -61,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231218T134222
+DTSTAMP:20231219T133909
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
