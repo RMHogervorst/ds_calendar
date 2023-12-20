@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20231003T080000
 DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20231219T133909
+DTSTAMP:20231220T133309
 CREATED:20221222T105153Z
 LAST-MODIFIED:20230409T114226Z
 UID:13716-1696320000-1705611600@ecda.eur.nl
@@ -14,24 +14,9 @@ ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screensh
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20231219T163000
-DTEND;TZID=Europe/Amsterdam:20231219T200000
-DTSTAMP:20231219T133909
-CREATED:20231120T131541Z
-LAST-MODIFIED:20231121T125259Z
-UID:15473-1703003400-1703016000@ecda.eur.nl
-SUMMARY:ECDA Community Christmas Drinks
-DESCRIPTION:Do you already feel the festive atmosphere of upcoming Christmas?   Like every year\, we invite you to join us for our very special Christmas Drinks\, organized by Erasmus Centre for Data Analytics\, as an occasion to celebrate Christmas together in our data-driven community.   In addition to meeting together and exchanging our stories and latest discoveries in a cozy Christmas ambience\, we’ll have a distinctive opportunity to explore AI and Data Analytics from a theological standpoint. This will be possible thanks to our two guests speakers\, Martijn de Jong and Jack Esselink\, whose expertise combine the religion and AI & Large Language Model (LLM).   Martijn de Jong is a chair professor of quantitative marketing at the Erasmus School of Economics and will present his new expert practice – Catholic Advanced Analytics. Jack Esselink is a Data & AI Evangelist\, Digital Ethicist and Theologian Educator at Studio Pulpit and will introduce us to the fascinating topic of relations between theology and AI.  The event will take place in Erasmus University Rotterdam in Polak Building\, at 16:30 on December 19. We are excited to see you soon and celebrate together!  
-URL:https://ecda.eur.nl/event/ecda-community-christmas-drinks/
-LOCATION:NA
-CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/11/Christmas-Visual-Final_Monika-Olbrycht.png
-ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240116T163000
 DTEND;TZID=Europe/Amsterdam:20240116T183000
-DTSTAMP:20231219T133909
+DTSTAMP:20231220T133309
 CREATED:20231210T194839Z
 LAST-MODIFIED:20231211T082843Z
 UID:15904-1705422600-1705429800@ecda.eur.nl
@@ -46,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20231219T133909
+DTSTAMP:20231220T133309
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
