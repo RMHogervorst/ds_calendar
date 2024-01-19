@@ -1,22 +1,7 @@
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20231003T080000
-DTEND;TZID=Europe/Amsterdam:20240118T210000
-DTSTAMP:20240118T134022
-CREATED:20221222T105153Z
-LAST-MODIFIED:20230409T114226Z
-UID:13716-1696320000-1705611600@ecda.eur.nl
-SUMMARY:ECDA Leadership Challenge with Data Analytics | Education Track (Fall 2023 Edition)
-DESCRIPTION:The use of data and application of analytics and artificial intelligence (AI) will without any doubtchange the way we design and operate our Higher Education. As a matter of fact\, today it is alreadychanging our educational institutions. But what is needed to make analytics and AI valuable partsof the way we organize our education? Many experts believe that successful transformation of ourHigher Education hinges on five pillars: strategy\, hr and culture\, organisation\, governance andcompliance\, ICT.This insight will require a whole new set of skills and ways of working. Understanding and workingwith new technologies for (big) data collection\, analysis and prediction will not create only hugeopportunities\, but also ethical\, legal\, privacy and technical issues concerning every part of theorganization. It will influence the relationship with our students\, redefines how new programs andservices are developed\, changes how operations are managed\, and provides the basis for newservice offerings. It will demand a data driven focus of everyone involved in the organization.This training programme combines the science of business\, data\, and societal perspectives.Participants – who usually join with a team of 3 to 5 persons – acquire a broad knowledge and diverseskills related to data analytics\, which may lead to new insights that drive new value creationopportunities in the context of higher education. Such learning by doing manifests itself along twodimensions: across multiple levels (individual\, group) and across multiple functions
-URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-education-track-spring-2023-edition/
-LOCATION:Hybrid
-CATEGORIES:Leadership Challenges with Data Analytics
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2022/12/Screenshot-2022-12-22-114300.png
-ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
@@ -31,7 +16,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240314T080000
 DTEND;TZID=Europe/Amsterdam:20240314T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T103701Z
 LAST-MODIFIED:20240111T103811Z
 UID:16058-1710403200-1710435600@ecda.eur.nl
@@ -46,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240418T080000
 DTEND;TZID=Europe/Amsterdam:20240418T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T103744Z
 LAST-MODIFIED:20240111T103745Z
 UID:16060-1713427200-1713459600@ecda.eur.nl
@@ -61,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240422T080000
 DTEND;TZID=Europe/Amsterdam:20240425T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T104118Z
 LAST-MODIFIED:20240111T104119Z
 UID:16066-1713772800-1714064400@ecda.eur.nl
@@ -76,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240605T080000
 DTEND;TZID=Europe/Amsterdam:20240605T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T103856Z
 LAST-MODIFIED:20240111T103857Z
 UID:16062-1717574400-1717606800@ecda.eur.nl
@@ -91,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240605T080000
 DTEND;TZID=Europe/Amsterdam:20240607T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T104232Z
 LAST-MODIFIED:20240111T104234Z
 UID:16068-1717574400-1717779600@ecda.eur.nl
@@ -106,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240918T080000
 DTEND;TZID=Europe/Amsterdam:20240919T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T104327Z
 LAST-MODIFIED:20240111T104328Z
 UID:16070-1726646400-1726765200@ecda.eur.nl
@@ -121,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241009T080000
 DTEND;TZID=Europe/Amsterdam:20241010T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T104415Z
 LAST-MODIFIED:20240111T104417Z
 UID:16072-1728460800-1728579600@ecda.eur.nl
@@ -136,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241024T080000
 DTEND;TZID=Europe/Amsterdam:20241024T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T103946Z
 LAST-MODIFIED:20240111T103948Z
 UID:16064-1729756800-1729789200@ecda.eur.nl
@@ -151,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241204T080000
 DTEND;TZID=Europe/Amsterdam:20241206T170000
-DTSTAMP:20240118T134022
+DTSTAMP:20240119T133950
 CREATED:20240111T104528Z
 LAST-MODIFIED:20240111T104530Z
 UID:16074-1733299200-1733504400@ecda.eur.nl
