@@ -1,151 +1,181 @@
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20240227T163000
+DTEND;TZID=Europe/Amsterdam:20240227T203000
+DTSTAMP:20240219T133734
+CREATED:20240219T103457Z
+LAST-MODIFIED:20240219T103459Z
+UID:16449-1709051400-1709065800@ecda.eur.nl
+SUMMARY:ECDA Community Social Drinks
+DESCRIPTION:Are you looking forward to meet your colleagues and exchange ideas in our tech-driven community?  \n\n\n\nWe are happy to announce the next edition of ECDA community social drinks! \n\n\n\nDuring the event\, Jos van Dongen\, the director of Erasmus Data Collaboratory at Erasmus University\, will introduce the process of launching the Erasmus Data Collaboratory Sandbox. We will usher into the core principles of working with data\, as well as the procedures of gathering\, storing and sharing the information. Furthermore\, you will have an opportunity to learn how to get the access to the data sandbox yourself. The presentation will end with an entertaining demo.  \n\n\n\nLater on there will be time for networking\, drinks and bites. We are looking forward to catch up with our colleagues and spend a good time together   \n\n\n\nThe event will take place on 27th of February in Erasmus University Rotterdam \n\n\n\n📅 February 27\, 2024⏰ 16:30  📍Erasmus University Rotterdam\, Polak Building\, Y1.10. \n\n\n\nWe are excited to see you there! If you didn’t receive an invitation\, please reach out to malkus@rsm.nl before the event.
+URL:https://ecda.eur.nl/event/ecda-community-social-drinks/
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2024/02/Final-Version-3.png
+LOCATION:NA
+CATEGORIES:NA
+ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
 SUMMARY:ECDA Leadership Challenge with Data Analytics | Regular Track
 DESCRIPTION:Artificial Intelligence will without any doubt change the way we will do business in the future. As a matter of fact\, it is already changing many businesses that we are involved in today. But what is needed to make Artificial Intelligence a valuable part of the way we do business ourselves? Many experts believe that successful Artificial Intelligence applications hinge on the so-called b-smact technologies (Blockchain\, Social media\, Mobile use\, Analytics\, Cloud and Things-on-the-internet or better known as IoT). The fueling component of those technologies is Big Data. This insight will require a whole new set of business skills. Understanding and working with new technologies for big data collection\, analysis and prediction will not create only huge opportunities for business\, but also ethical\, legal\, privacy and technical issues concerning every part of the organization. It will influence customer relationships\, redefine how firms develop new products and services\, change how operations are organized and managed\, improve demand and supply networks\, and provide the basis for new business models. It will demand a data-driven focus of everyone involved \n\n\n\nThis training programme combines the science of business\, data and societal perspectives. Participants – who usually join with a company team of 3 to 5 persons – acquire a broad knowledge and diverse skills related to data analytics which may lead to new insights that drive new value creation opportunities. Such learning by doing manifests itself along two dimensions: across multiple levels (individual\, group\, and corporate) and across multiple functions.
 URL:https://ecda.eur.nl/event/ecda-leadership-challenge-with-data-analytics-september-2022-edition/
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 LOCATION:Hybrid
 CATEGORIES:Leadership Challenges with Data Analytics
-ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2023/02/image.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":MAILTO:ecda@rsm.nl
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20240314T080000
-DTEND;TZID=Europe/Amsterdam:20240314T170000
-DTSTAMP:20240218T133423
+DTSTART;TZID=Europe/Amsterdam:20240314T120000
+DTEND;TZID=Europe/Amsterdam:20240314T173000
+DTSTAMP:20240219T133734
 CREATED:20240111T103701Z
-LAST-MODIFIED:20240111T103811Z
-UID:16058-1710403200-1710435600@ecda.eur.nl
-SUMMARY:AI @ EUR – AI Ethics Round Table
-DESCRIPTION:Info TBA!
+LAST-MODIFIED:20240219T102730Z
+UID:16058-1710417600-1710437400@ecda.eur.nl
+SUMMARY:AI Ethics Roundtable
+DESCRIPTION:Explore the forefront of AI ethics with Erasmus University Rotterdam\, Erasmus Centre for Data Analytics\, and ICAI – Innovation Center for Artificial Intelligence at our upcoming AI Ethics Roundtable Event!We’ll be diving into topics like adapting in an AI-driven society\, ethical perspectives in education\, and so much more. This is your chance to contribute to the ethical discourse around AI.📅 March 14\, 2024⏰ 12:00 PM – 5:30 PM📍CIC Rotterdam.If you would like to join the discussion then reach out to ecda@rsm.nl or events@icai.ai to receive your invitation.
 URL:https://ecda.eur.nl/event/ai-eur-ai-ethics-round-table/
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2024/02/Ethics_Roundtable_banner_Eventbrite-3.png
+LOCATION:NA
+CATEGORIES:AI Ethics
+ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20240321T143000
+DTEND;TZID=Europe/Amsterdam:20240321T160000
+DTSTAMP:20240219T133734
+CREATED:20240219T092254Z
+LAST-MODIFIED:20240219T104033Z
+UID:16415-1711031400-1711036800@ecda.eur.nl
+SUMMARY:Grip on AI: How mature is your organization?
+DESCRIPTION:Within this exploration\, we investigate how an AI ethics maturity model can help you gain a grip on AI and ethics within your organization. How is your institution doing when it comes to awareness and culture\, proper AI governance\, and more. \n\n\n\n \n\n\n\n📅 March 21\, 2024⏰ 14:30 – 16:00📍 Online \n\n\n\n \n\n\n\nPilot\n\n\n\n \n\n\n\nSURF will facilitate a guided ‘pilot’ with this maturity model during 2024\, in which we want to explore how tools such as these can contribute to the responsible use of AI within the sector. We organize this in collaboration with EDSA and Erasmus Center for Data Analytics (ECDA). We hope to do an informal ‘self-assessment’ with a diverse group of institutions\, to see what works and what doesn’t\, and to learn from each other. \n\n\n\nProgram\n\n\n\n \n\n\n\n\n\n\n\n\nKick-off: we introduce the maturity model and the exploration\, will you join us? \n\n\n\n\n\nInformation session for participants: we will discuss further about how you can best approach this. And we make agreements about the mutual exchange of information. This meeting will take place on April 2 from 10 am to 11 am via Teams.\n\n\n\n\n\n\n\n\n\n\n\nSelf-assessment: you work within your institution to do a self-assessment \n\n\n\n\n\n\n\n\n\n\n\nFeedback: we discuss the results and experiences with each other. And we will discuss possible next steps.\n\n\n\n\n \n\n\n\nFor whom?\n\n\n\n \n\n\n\nThe pilot exploration of the maturity model for AI ethics is aimed at institutional staff who are involved in the governance of new technologies and applications within the institution. And is therefore interesting for information managers\, privacy officers\, data protection officers\, enterprise architects\, and policy officers. \n\n\n\nDay Program\n\n\n\n \n\n\n\n\nIntroduction & general Responsible AI at SURF (10 min) \n\n\n\n\n\nExplanation of the AI ​​ethics maturity model (15 min) \n\n\n\n\n\nSharing experiences through the AI@EUR program (15 min) \n\n\n\n\n\nDiscussion & questions (20 min) \n\n\n\n\n\nBreak (5 min)? \n\n\n\n\n\nExplanation of the pilot (15 min)  \n\n\n\n\n\nDiscussion and questions (10 min) \n\n\n\n\n\n\n\n\n\n\n \n\n\n\nRegister
+URL:https://ecda.eur.nl/event/grip-on-ai-how-mature-is-your-organization/
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2024/02/Grip-op-AI-hoe-volwassen-is-jouw-organisatie.png
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240418T080000
 DTEND;TZID=Europe/Amsterdam:20240418T170000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20240111T103744Z
 LAST-MODIFIED:20240111T103745Z
 UID:16060-1713427200-1713459600@ecda.eur.nl
 SUMMARY:Erasmus Data Summit
 DESCRIPTION:Info TBA!
 URL:https://ecda.eur.nl/event/erasmus-data-summit-2/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240422T080000
 DTEND;TZID=Europe/Amsterdam:20240425T170000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20240111T104118Z
 LAST-MODIFIED:20240111T104119Z
 UID:16066-1713772800-1714064400@ecda.eur.nl
 SUMMARY:World Energy Conference
 DESCRIPTION:Info TBA! \n\n\n\nRead here.
 URL:https://ecda.eur.nl/event/world-energy-conference/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240605T080000
 DTEND;TZID=Europe/Amsterdam:20240605T170000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20240111T103856Z
 LAST-MODIFIED:20240111T103857Z
 UID:16062-1717574400-1717606800@ecda.eur.nl
 SUMMARY:ICAI Day 2024
 DESCRIPTION:Info TBA!
 URL:https://ecda.eur.nl/event/icai-day-2024/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240605T080000
 DTEND;TZID=Europe/Amsterdam:20240607T170000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20240111T104232Z
 LAST-MODIFIED:20240111T104234Z
 UID:16068-1717574400-1717779600@ecda.eur.nl
 SUMMARY:Urban Future
 DESCRIPTION:Info TBA! \n\n\n\nRead here.
 URL:https://ecda.eur.nl/event/urban-future/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240918T080000
 DTEND;TZID=Europe/Amsterdam:20240919T170000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20240111T104327Z
 LAST-MODIFIED:20240111T104328Z
 UID:16070-1726646400-1726765200@ecda.eur.nl
 SUMMARY:Recharge Earth
 DESCRIPTION:Info TBA! \n\n\n\nRead here.
 URL:https://ecda.eur.nl/event/recharge-earth-3/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241009T080000
 DTEND;TZID=Europe/Amsterdam:20241010T170000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20240111T104415Z
 LAST-MODIFIED:20240111T104417Z
 UID:16072-1728460800-1728579600@ecda.eur.nl
 SUMMARY:World AI Summit
 DESCRIPTION:Info TBA! \n\n\n\nRead here.
 URL:https://ecda.eur.nl/event/world-ai-summit/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241024T080000
 DTEND;TZID=Europe/Amsterdam:20241024T170000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20240111T103946Z
 LAST-MODIFIED:20240111T103948Z
 UID:16064-1729756800-1729789200@ecda.eur.nl
 SUMMARY:Erasmus Thesis Awards
 DESCRIPTION:Info TBA!
 URL:https://ecda.eur.nl/event/erasmus-thesis-awards-2/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241204T080000
 DTEND;TZID=Europe/Amsterdam:20241206T170000
-DTSTAMP:20240218T133423
+DTSTAMP:20240219T133734
 CREATED:20240111T104528Z
 LAST-MODIFIED:20240111T104530Z
 UID:16074-1733299200-1733504400@ecda.eur.nl
 SUMMARY:Immersive Tech Week
 DESCRIPTION:Info TBA! \n\n\n\nRead here.
 URL:https://ecda.eur.nl/event/immersive-tech-week/
+ATTACH;FMTTYPE=image/png:NA
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 END:VCALENDAR
