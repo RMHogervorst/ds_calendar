@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240304T120000
 DTEND;TZID=Europe/Amsterdam:20240304T120000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20220315T095802Z
 LAST-MODIFIED:20231001T075003Z
 UID:12799-1709553600-1709553600@ecda.eur.nl
@@ -16,12 +16,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240314T120000
 DTEND;TZID=Europe/Amsterdam:20240314T173000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T103701Z
-LAST-MODIFIED:20240229T103506Z
+LAST-MODIFIED:20240229T135925Z
 UID:16058-1710417600-1710437400@ecda.eur.nl
 SUMMARY:AI Ethics Roundtable
-DESCRIPTION:Explore the forefront of AI ethics with Erasmus University Rotterdam\, Erasmus Centre for Data Analytics\, and ICAI – Innovation Center for Artificial Intelligence at our upcoming AI Ethics Roundtable Event!We’ll be diving into topics like adapting in an AI-driven society\, ethical perspectives in education\, and so much more. This is your chance to contribute to the ethical discourse around AI.📅 March 14\, 2024⏰ 12:00 PM – 5:30 PM📍CIC Rotterdam.If you would like to join the discussion then reach out to ecda@rsm.nl or events@icai.ai to receive your invitation.
+DESCRIPTION:Explore the forefront of AI ethics with Erasmus University Rotterdam\, Erasmus Centre for Data Analytics\, and ICAI – Innovation Center for Artificial Intelligence at our upcoming AI Ethics Roundtable Event! \n\n\n\n📅 March 14\, 2024⏰ 12:00 PM – 5:30 PM📍CIC Rotterdam.We’ll be diving into topics like adapting in an AI-driven society\, ethical perspectives in education\, and so much more. This is your chance to contribute to the ethical discourse around AI. \n\n\n\nMeet our distinguished moderator and panelists for the upcoming AI Ethics Roundtable hosted by Erasmus University Rotterdam\, Erasmus Centre for Data Analytics\, and ICAI – Innovation Center for Artificial Intelligence . They will be leading engaging discussions on crucial AI ethics topics\, such as:▪ How should liability and accountability be distributed in the collaborative environment of building\, deploying\, and maintaining AI systems? \n\n\n\n▪ Should AI practitioners be subject to the same level of regulation and standardization as professionals in fields such as law\, medicine or architecture? \n\n\n\n▪ What should be the focus in educating and training individuals\, from school to university\, about AI to prepare them for an AI-driven future?If you’d like to attend the event\, reach out to ecda@rsm.nl or events@icai.ai for your personal invite! Looking forward to an insightful discussion on March 14 at CIC Rotterdam. Don’t miss this opportunity to be part of the conversation!
 URL:https://ecda.eur.nl/event/ai-eur-ai-ethics-round-table/
 LOCATION:NA
 CATEGORIES:AI Ethics
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240321T143000
 DTEND;TZID=Europe/Amsterdam:20240321T160000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240219T092254Z
 LAST-MODIFIED:20240219T104033Z
 UID:16415-1711031400-1711036800@ecda.eur.nl
@@ -44,24 +44,24 @@ ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2024/02/Grip-op-
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Amsterdam:20240418T080000
+DTSTART;TZID=Europe/Amsterdam:20240418T133000
 DTEND;TZID=Europe/Amsterdam:20240418T170000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T103744Z
-LAST-MODIFIED:20240111T103745Z
-UID:16060-1713427200-1713459600@ecda.eur.nl
+LAST-MODIFIED:20240229T132937Z
+UID:16060-1713447000-1713459600@ecda.eur.nl
 SUMMARY:Erasmus Data Summit
-DESCRIPTION:Info TBA!
+DESCRIPTION:The event is hosted by the Erasmus Center for Data Analytics; the center of expertise and community of Erasmus University Rotterdam around data\, digitization\, AI & Immersive tech\, and the Erasmus X Center for Experimentation in Education. We support the strategy of Erasmus University Rotterdam: Creating Positive Societal Impact. In this\, Data\, AI & Immersive tech are seen as important drivers to create direct social impact. Where people and the use and acceptance of this technology are central\, not just the technology. \n\n\n\nBy bridging the gap between technical knowledge (Delft) and knowledge from the business and social domain (Rotterdam)\, we want to help data tech entrepreneurs\, government and business representatives\, universities\, and students who work with AI & Immersive tech to set up companies and grow themselves and their organizations to focus on the societal challenges of tomorrow. \n\n\n\nSummit \n\n\n\nDuring the summit\, there will be renounced speakers and representatives from the data tech ecosystem (both new talent and established entrepreneurs\, representatives from government and industry\, universities (EUR\, TU Delft/convergence community)\, and various students\, to celebrate data\, AI and Immersive tech\, meet new talent\, connect with established alumni and discuss key societal themes around data and innovation. This edition will be focused on Creating the Future Workforce. Looking at the immense impact that AI has on our workplace\, work\, and way of learning\, we need to keep up with the changes and prepare for what is to come. You can check out last year’s speakers via this link. \n\n\n\nThe meeting is in the form of a dynamic show format\, chaired by a top host (Jim Stolze)\, where various guests will speak per topic. Therefore\, if the event’s period does not suit\, attendance for 1 specific part may also be an option. \n\n\n\nThere are video pitches\, talks\, shoutouts\, and conversations with (alumni) representatives and entrepreneurs around the following themes: future of work\, human perspective on working with AI\, Work and Talent\, AI & Education. We also want to answer questions about AI & equality\, ethics\, and immersive healthcare. \n\n\n\n\n\n\n\nThe Erasmus Data Summit will be held on the 18th of April\, starting from 13:30 (walk-in from 13:00). Together with renowned speakers from academia and industry\, we will discuss the following questions: \n\n\n\n \n\n\n\n\nHow are generative AI and Immersive tech evolving in the coming years?\n\n\n\n\n \n\n\n\n\nWhat is the impact on work – how are they changing the way we work\, educate\, skill\, learn\, or do research? How does it impact equality\, opportunity creation\, innovation\, safety\, security\, healthcare\, and well-being?\n\n\n\n\n \n\n\n\n\nHow does this affect our leadership needs and the workability of employees?\n\n\n\n\n \n\n\n\n\nHow does it shape our beliefs? How can we stop misuse? How can we strive towards transparent\, ethical & trustworthy generative AI?\n\n\n\n\n \n\n\n\n\nHow can we make use of these diverse technologies (or platforms) well to prepare ourselves and future generations to tackle societal and organizational challenges? (AI\, haptics\, gamification\, VR\, AR\, XR\, metaverse\, web3)\n\n\n\n\n \n\n\n\n\nShow inspiring use cases in business\, education\, innovation\, and healthcare.\n\n\n\n\n \n\n\n\n\nHow can we ensure enough education and talent in data\, AI & Immersive tech? How can we make our talent data and AI literate to foster responsible use of immersive technologies?\n\n\n\n\n \n\n\n\nAfter the plenary part\, an Immersive Tech Fair will be hosted in the Theil Building. Here we offer our guests the possibility to have a hands-on experience with the latest tech\, and network\, and have drinks. \n\n\n\n \n\n\n\nExternal guests are welcome to park in the main parking lot right under the campus
 URL:https://ecda.eur.nl/event/erasmus-data-summit-2/
 LOCATION:NA
 CATEGORIES:NA
-ATTACH;FMTTYPE=image/png:NA
+ATTACH;FMTTYPE=image/png:https://ecda.eur.nl/wp-content/uploads/2024/01/Erasmus-Data-Summit.png
 ORGANIZER;CN="Erasmus Centre for Data Analytics":NA
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240422T080000
 DTEND;TZID=Europe/Amsterdam:20240425T170000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T104118Z
 LAST-MODIFIED:20240111T104119Z
 UID:16066-1713772800-1714064400@ecda.eur.nl
@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240605T080000
 DTEND;TZID=Europe/Amsterdam:20240605T170000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T103856Z
 LAST-MODIFIED:20240111T103857Z
 UID:16062-1717574400-1717606800@ecda.eur.nl
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240605T080000
 DTEND;TZID=Europe/Amsterdam:20240607T170000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T104232Z
 LAST-MODIFIED:20240111T104234Z
 UID:16068-1717574400-1717779600@ecda.eur.nl
@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20240918T080000
 DTEND;TZID=Europe/Amsterdam:20240919T170000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T104327Z
 LAST-MODIFIED:20240111T104328Z
 UID:16070-1726646400-1726765200@ecda.eur.nl
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241009T080000
 DTEND;TZID=Europe/Amsterdam:20241010T170000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T104415Z
 LAST-MODIFIED:20240111T104417Z
 UID:16072-1728460800-1728579600@ecda.eur.nl
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241024T080000
 DTEND;TZID=Europe/Amsterdam:20241024T170000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T103946Z
 LAST-MODIFIED:20240111T103948Z
 UID:16064-1729756800-1729789200@ecda.eur.nl
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Amsterdam:20241204T080000
 DTEND;TZID=Europe/Amsterdam:20241206T170000
-DTSTAMP:20240229T133643
+DTSTAMP:20240301T133731
 CREATED:20240111T104528Z
 LAST-MODIFIED:20240111T104530Z
 UID:16074-1733299200-1733504400@ecda.eur.nl
