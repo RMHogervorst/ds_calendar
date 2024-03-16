@@ -6,7 +6,7 @@ on:
     - 'calendars.csv'
   workflow_dispatch:
   schedule:
-    - cron:  '12 12 * * *'
+    - cron: '' # '12 12 * * *'
 
 jobs:
   scheduled:
